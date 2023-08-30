@@ -8,21 +8,20 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Land Systems for Sustainability Lab
       image:
-        filename: welcome.jpg
+        filename: mango.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Land Systems for Sustainability Lab** studies land use transitions, i.e. non-linear land use dynamics at broad scale such as forest transitions and emergence of land use frontiers; linkages between globalization and land use including supply chain interventions to halt deforestation; theories of land system change; and social-ecological feedbacks.
   
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: drone_sub.jpg
           filters:
             brightness: 1
           parallax: false
@@ -60,8 +59,7 @@ sections:
     content:
       title:
       subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      text: Reach out if you are interested!
     design:
       columns: '1'
 ---

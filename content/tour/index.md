@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the lab
         content: Take a look at what we're working on...
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: drone_sub.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,17 +23,17 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: mango.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Won a prize
+        content: 'Just last month!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: prize.jpg
             filters:
               brightness: 0.5
           position: center
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---

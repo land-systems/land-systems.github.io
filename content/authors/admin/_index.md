@@ -46,7 +46,7 @@ social:
     icon_pack: fas
     link: 'mailto:patrick.meyfroidt@uclouvain.be'
   - icon: mastodon
-    icon_pack: fas
+    icon_pack: fab
     link: https://fediscience.org/@pmeyfroidt
   - icon: google-scholar
     icon_pack: ai
@@ -66,6 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Principal Investigators
   - Researchers
 ---
 

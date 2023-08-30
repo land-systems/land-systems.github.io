@@ -3,7 +3,7 @@ title: Cecile´s cool cocoa research is shown in national TV!
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations!
 
 <!--more-->
 
