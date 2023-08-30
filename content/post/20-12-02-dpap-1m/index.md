@@ -1,9 +1,11 @@
 ---
-title: Cecile´s cool cocoa research is shown in national TV!
-date: 2020-12-01
+title: Do pasto ao prato has 1 million users!
+date: 2020-12-02
+image:
+  focal_point: 'top'
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Erasumus!
 
 <!--more-->
 
