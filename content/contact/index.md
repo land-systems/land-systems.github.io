@@ -15,14 +15,13 @@ sections:
       address:
         street: 3, Place Louis Pasteur
         city: Louvain-La-Neuve
-        region: CA
         postcode: '1348'
         country: Belgium
         country_code: BE
       coordinates:
-        latitude: '46.575366'
-        longitude: '5.954573'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '50.66939749605494'
+        longitude: '4.61977578554916'
+      directions: Enter the building and take the stairs to the fourth floor
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
@@ -46,24 +45,4 @@ sections:
           captcha: false
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: drone_sub.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 ---
