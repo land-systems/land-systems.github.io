@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'The website of the Land Systems for Sustainability Lab at UCLouvain, Belgium.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -100,7 +100,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 16
 
 # Extensions
 
