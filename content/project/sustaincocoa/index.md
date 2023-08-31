@@ -1,24 +1,16 @@
 ---
-title: Example Event
+title: SUSTAIN COCOA
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: SUSTAIN COCOA
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Sustainable sourcing policies for biodiversity protection, climate mitigation, and improved livelihoods in the cocoa sector
+abstract: 'In the proposed research we aim to investigate the conditions under which supply chain sustainability initiatives (SSIs) can lead to reduced deforestation and increased shade-​tree cover in cocoa production systems and, in turn, a triple-​win of increased biodiversity, climate change mitigation, and livelihood resilience.
+Our cross-​scale, interdisciplinary, and transnational approach will provide insights into the on-​the-ground impacts of existing SSIs in the cocoa sector and the potential impacts of scaling up SSIs to reduce deforestation and enhance shade-​tree cover. Furthermore, it will clarify the role that agroforestry can play in helping deliver multiple sustainability objectives: protecting biodiversity, climate mitigation, and improved farmer livelihoods. It thus aligns well with the EU’s efforts to step up action to protect and restore the world’s forests.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2019-01-01T13:00:00Z'
+date_end: '2024-01-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,7 +23,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
