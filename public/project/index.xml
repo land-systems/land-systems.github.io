@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research projects | Land Systems for Sustainability Lab</title>
+    <link>https://landsystems.earth/project/</link>
+      <atom:link href="https://landsystems.earth/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://landsystems.earth/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Research projects</title>
+      <link>https://landsystems.earth/project/</link>
+    </image>
+    
+    <item>
+      <title>SUSTAIN-COCOA</title>
+      <link>https://landsystems.earth/project/sustaincocoa/</link>
+      <pubDate>Tue, 01 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>https://landsystems.earth/project/sustaincocoa/</guid>
+      <description>&lt;p&gt;In the proposed research we aim to investigate the conditions under which supply chain sustainability initiatives (SSIs) can lead to reduced deforestation and increased shade-​tree cover in cocoa production systems and, in turn, a triple-​win of increased biodiversity, climate change mitigation, and livelihood resilience.
+Our cross-​scale, interdisciplinary, and transnational approach will provide insights into the on-​the-ground impacts of existing SSIs in the cocoa sector and the potential impacts of scaling up SSIs to reduce deforestation and enhance shade-​tree cover. Furthermore, it will clarify the role that agroforestry can play in helping deliver multiple sustainability objectives: protecting biodiversity, climate mitigation, and improved farmer livelihoods. It thus aligns well with the EU’s efforts to step up action to protect and restore the world’s forests.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

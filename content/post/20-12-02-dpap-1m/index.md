@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Erasumus!
+Congratulations to Erasmus!
 
 <!--more-->
 

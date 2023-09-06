@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cécile Renier | Land Systems for Sustainability Lab</title>
+    <link>https://landsystems.earth/author/cecile-renier/</link>
+      <atom:link href="https://landsystems.earth/author/cecile-renier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cécile Renier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://landsystems.earth/author/cecile-renier/avatar_hucc2e8aa54e65d2dac9aea69a71f98c5a_72856_270x270_fill_lanczos_center_3.png</url>
+      <title>Cécile Renier</title>
+      <link>https://landsystems.earth/author/cecile-renier/</link>
+    </image>
+    
+    <item>
+      <title>Transparency, traceability and deforestation in the Ivorian cocoa supply chain</title>
+      <link>https://landsystems.earth/publication/renier2022transparency/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://landsystems.earth/publication/renier2022transparency/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SUSTAIN-COCOA</title>
+      <link>https://landsystems.earth/project/sustaincocoa/</link>
+      <pubDate>Tue, 01 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>https://landsystems.earth/project/sustaincocoa/</guid>
+      <description>&lt;p&gt;In the proposed research we aim to investigate the conditions under which supply chain sustainability initiatives (SSIs) can lead to reduced deforestation and increased shade-​tree cover in cocoa production systems and, in turn, a triple-​win of increased biodiversity, climate change mitigation, and livelihood resilience.
+Our cross-​scale, interdisciplinary, and transnational approach will provide insights into the on-​the-ground impacts of existing SSIs in the cocoa sector and the potential impacts of scaling up SSIs to reduce deforestation and enhance shade-​tree cover. Furthermore, it will clarify the role that agroforestry can play in helping deliver multiple sustainability objectives: protecting biodiversity, climate mitigation, and improved farmer livelihoods. It thus aligns well with the EU’s efforts to step up action to protect and restore the world’s forests.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Land Systems for Sustainability Lab** studies land use transitions, i.e. non-linear land use dynamics at broad scale such as forest transitions and emergence of land use frontiers; linkages between globalization and land use including supply chain interventions to halt deforestation; theories of land system change; and social-ecological feedbacks.
+        We study land use transitions, i.e. non-linear land use dynamics at broad scale such as forest transitions and emergence of land use frontiers; linkages between globalization and land use including supply chain interventions to halt deforestation; theories of land system change; and social-ecological feedbacks.
   
   - block: collection
     content:
