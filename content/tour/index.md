@@ -33,8 +33,8 @@ sections:
           icon_pack: fas
           text: Explore projects
           url: ../project/
-      - title: Won a prize
-        content: 'Just last month!'
+      - title: Interested in contributing?
+        content: 'Reach out and join the team!'
         align: right
         background:
           image:
@@ -46,7 +46,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Contact us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

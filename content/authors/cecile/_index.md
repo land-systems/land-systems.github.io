@@ -63,10 +63,4 @@ user_groups:
   - Researchers
 ---
 
-Patrick Meyfroidt holds a PhD in geography (2009) and a degree in sociology from Université catholique de Louvain (UCLouvain) in Belgium. Since 2016 he is Research Associate at the F.R.S-FNRS (the Belgian Research Funds) and Professor at UCLouvain.
-
-His research focuses on how land use and more broadly land systems can contribute to sustainability.
-
-His main research interests are land use transitions, i.e. non-linear land use dynamics at broad scale such as forest transitions and emergence of land use frontiers; linkages between globalization and land use including supply chain interventions to halt deforestation; theories of land system change; and social-ecological feedbacks.
-
-His recent projects include the MIDLAND project (ERC Starting Grant) investigating emerging agricultural and forestry frontiers in Mozambique and Southern Africa; the SUSTAIN-COCOA project researching cocoa supply chains, deforestation and sustainability in West Africa; the COUPLED project investigating telecouplings and sustainability issues; and participations to the Trase initiative.
+Cecile is ...
