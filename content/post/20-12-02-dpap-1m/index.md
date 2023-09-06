@@ -3,9 +3,11 @@ title: Do pasto ao prato has 1 million users!
 date: 2020-12-02
 image:
   focal_point: 'top'
+authors: 
+  - erasmus
 ---
 
-Congratulations to Erasmus!
+Yippie!
 
 <!--more-->
 
