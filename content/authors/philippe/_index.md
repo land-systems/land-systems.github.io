@@ -10,7 +10,7 @@ last_name: Rufin
 superuser: true
 
 # Role/position
-role: PostDoctoral Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -20,25 +20,28 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter. XYZ
+bio: Researching on Earth observation and Land System Science
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Land System Science
+  - Earth Observation
+  - Machine Learning
+  - Open Science
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: Postdoctoral Fellow 
+      institution: Earth & Life Institute, UCLouvain
+      year: 2023
+    - course: Postdoctoral Fellow 
+      institution: Earth & Life Institute, UCLouvain
+      year: 2021
+    - course: Postdoctoral Fellow 
+      institution: Geography Department, Humboldt-Universität zu Berlin
+      year: 2019
+    - course: PhD 
+      institution: Geography Department, Humboldt-Universität zu Berlin
+      year: 2015
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -46,13 +49,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:patrick.meyfroidt@uclouvain.be'
+    link: 'mailto:philippe.rufin@uclouvain.be'
   - icon: mastodon
     icon_pack: fab
-    link: https://fediscience.org/@pmeyfroidt
+    link: https://mapstodon.space/@philrufin
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=KXiwKqIAAAAJ&hl=de&oi=ao
+    link: https://scholar.google.com/citations?user=62sSWfEAAAAJ&hl=de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
