@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
+  font: minimal #native
   font_size: L
 
 # SEO
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Land Systems for Sustainability Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
