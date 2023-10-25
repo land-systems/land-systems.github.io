@@ -16,7 +16,7 @@ role: Postdoctoral Fellow
 organizations:
   - name: UCLouvain
     url: ''
-  - name: Humboldt Universität
+  - name: Humboldt-Universität zu Berlin
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-Philippe holds a PhD in geography...
+Philippe is a Geographer with strong interest in land systems and remote sensing. His work involves the development and application of tools and methods for large-area mapping of land use and land use intensity across decadal time frames. Currently, Philippe works on mapping the dynamics of cropland, field size, and land use intensity in Sub-Saharan Africa using deep learning and very high spatial resolution satellite imagery. The outcomes of his work will contribute to identifying and understanding recent trajectories of agricultural expansion and intensification in Northern Mozambique. He is supported by a research grant from the Fonds de la Recherche Scientifique F.R.S.-FNRS. For more information and recent updates, feel free to visit Philippe´s [website](https://philipperufin.github.io/).

@@ -19,6 +19,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors: 
   - cecile
   - erasmus
+  - patrick
 tags: []
 
 # Is this a featured talk? (true/false)
