@@ -10,7 +10,7 @@ last_name:  zu Ermgassen
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
