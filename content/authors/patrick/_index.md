@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Head of Lab
+  - Researchers
 ---
 
 Patrick Meyfroidt holds a PhD in geography (2009) and a degree in sociology from Université catholique de Louvain (UCLouvain) in Belgium. Since 2016 he is Research Associate at the F.R.S-FNRS (the Belgian Research Funds) and Professor at UCLouvain.

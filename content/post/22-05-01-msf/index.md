@@ -3,6 +3,10 @@ title: The role of medium-scale farming in rural development in Mozambique
 date: 2022-05-01
 image:
   focal_point: 'top'
+
+authors: 
+- cristina
+
 ---
 
 Medium-scale farmers are often neglected in policies and discourses on agricultural development. 
@@ -61,4 +65,6 @@ References
 
 - Sitko, N., & Chamberlin, J. (2015). The anatomy of medium-scale farm growth in Zambia: what are the implications for the future of smallholder agriculture?. Land, 4(3), 869-887.
 
-- Sitko, N.J., Chisanga, B., Tschirley, D. & Jayne, T. S. (2018). An evolution in the middle: examining the rise of multinational investment in smallholder grain trading in Zambia. Food Security. 10, 473–488. https://doi.org/10.1007/s12571-018-0767-6Wineman, A., Jayne, T. S., Modamba, E. I., & Kray, H. (2021). Characteristics and spillover effects of medium-scale farms in Tanzania. The European Journal of Development Research, 33(6), 1877-1898.
+- Sitko, N.J., Chisanga, B., Tschirley, D. & Jayne, T. S. (2018). An evolution in the middle: examining the rise of multinational investment in smallholder grain trading in Zambia. Food Security. 10, 473–488. https://doi.org/10.1007/s12571-018-0767-6
+
+- Wineman, A., Jayne, T. S., Modamba, E. I., & Kray, H. (2021). Characteristics and spillover effects of medium-scale farms in Tanzania. The European Journal of Development Research, 33(6), 1877-1898.

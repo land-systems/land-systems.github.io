@@ -7,10 +7,10 @@ first_name: Philippe
 last_name: Rufin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
