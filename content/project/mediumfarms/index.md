@@ -1,7 +1,7 @@
 ---
 title: Medium-scale farms in Sub-Saharan Africa
 
-event: SUSTAIN-COCOA
+event: Medium-scale farms
 
 summary: 'Understanding the Role of Medium-Scale Farms as Drivers of Deforestation in Sub-Saharan Africa based on Earth
 Observation and Deep Learning'
@@ -18,7 +18,7 @@ publishDate:
 
 authors: 
   - philippe
-  - admin
+  - patrick
 
 tags: []
 

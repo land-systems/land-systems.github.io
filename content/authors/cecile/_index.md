@@ -10,7 +10,7 @@ last_name:  Renier
 superuser: false
 
 # Role/position
-role: PhD Candidate 
+role: PhD candidate 
 
 # Organizations/Affiliations
 organizations:
@@ -23,19 +23,18 @@ bio: My research interests are cocoa supply chains.
 interests:
   - Supply chains
   - Deforestation
-  - Chocolate
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,6 +44,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:cecile.renier@uclouvain.be'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +63,4 @@ user_groups:
   - Researchers
 ---
 
-Cecile is ...
+Cécile is a land system scientist with a degree in bioengineering (2013) from UCLouvain in Belgium and in environmental policies (2014) from AgroParisTech in France. After 5 years in cooperation – working on sustainable supply chains and biodiversity conservation, she is currently a doctoral researcher at the Earth and Life Institute at UCLouvain on the SUSTAIN-COCOA project and with the Trase initiative. Her research focuses on land use change linked to agriculture, particularly cocoa in Ghana and Côte d’Ivoire, and global sustainability targets. 

@@ -1,23 +1,20 @@
 ---
 title: The role of medium-scale farming in rural development in Mozambique
-date: 2022-05-01
+date: 2022-08-05
 image:
   focal_point: 'top'
 
 authors: 
 - cristina
+- patrick
 
 ---
 
 Medium-scale farmers are often neglected in policies and discourses on agricultural development. 
-
 <!--more-->
-
 Most of the agricultural development literature centers around efforts to target small-scale producers for poverty reduction and sustainable development, whereas many countries have specific policies to foster and attract large-scale commercial investments. But the specific role of medium-scale or emergent farmers in local economies is somewhat overlooked both in research and policy; although an emergent body of literature is increasingly spotlighting the rise of medium-scale farmers, and their role in driving agricultural transformation (Anseeuw et al., 2016; Jayne et al., 2016; Burket et al., 2019; Jayne et al., 2019; Wineman et al., 2021; Sitko and Chamberlin, 2015; Scoones and Murimbarimba, 2022; Saweda et al., 2022).
 
-
 ![Medium-scale farm with vegetables, next to an eucalyptus plantation. Photo: Cristina Chiarella](images/01_msf_moz.webp)
-
 
 There is not a consensual demarcation for medium-scale farms, but they can be defined as landholdings between 5 to 100 ha (as in Jayne et al., 2016). Besides their size, there are other characteristics associated with the scale of the operations. For example, compared to smallholdings, medium-scale farms tend to use more chemical inputs, more mechanization, and have more commercial operations connected to larger-scale traders and markets, although there is a very large diversity in the realities of medium-scale farming. In our recent work, we also find systematic evidence for 32 countries globally that medium-scale farms have greater labor productivity and greater technical efficiency than small-scale farms; but greater yields and greater labor intensity than large-scale operations, as they employ far more workers per ha than large landholdings (Chiarella, Meyfroidt, Abeygunawardane, Conforti, 2022). These findings suggest that emergent farmers could be in a unique position in that they have comparable labor productivity and total factor productivity than large-scale operations, without compromising the high labor demand and thus employment that small-scale farming provides.
 
@@ -37,9 +34,7 @@ This group of medium-scale soy farmers is quite specific, as at the national lev
 
 During our own fieldwork in Mozambique, we were able to interact with a few emergent farmers and learn from some benefits they provided to other small-scale producers in the vicinity. One of the farmers we met told us for example how he would buy improved maize and beans seeds every season and sell the second-generation ones to his neighbors, which still yielded more than the traditional varieties. Another farmer had obtained a larger terrain to cultivate next to an irrigation source, which he had subdivided into smaller plots so he could hire different neighbors to cultivate the different fields. These anecdotes and the prior examples are certainly early evidence that deserves further research to better understand how medium-scale farmers could indeed capitalize on and provide similar benefits as large-scale farming without compromising on the numerous benefits that small-scale farming provides. 
 
-Written by Cristina Chiarella and Patrick Meyfroidt
-
-References
+**References**
 
 - Anseeuw, W., Jayne, T., Kachule, R. and Kotsopoulos J. (2016). The quiet rise of medium-scale farms in Malawi. Land 5, no. 3: 19.
 
