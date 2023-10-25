@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michelle 
+title: Michelle Picoli
 
 # Full Name (for SEO)
 first_name: Michelle
@@ -13,9 +13,9 @@ superuser: false
 role: Postdoctoral researcher
 
 # Organizations/Affiliations
-organizations:
-  - name: UCLouvain
-    url: ''
+#organizations:
+#  - name: UCLouvain
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: Researching on Earth observation and Land System Science
