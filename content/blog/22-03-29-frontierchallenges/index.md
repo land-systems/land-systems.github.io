@@ -1,6 +1,6 @@
 ---
 title: Challenges in emerging frontiers
-date: 2022-05-23
+date: 2022-03-29
 image:
   focal_point: 'top'
   caption: '“American Progress” (John Gast, 1872). Painting in the public domain. Obtained from [Wikimedia](https://commons.wikimedia.org/wiki/File:American_Progress_(John_Gast_painting).jpg)'
@@ -23,10 +23,10 @@ Yet, an important caveat is that often, there’s good reasons why the abundant 
 
 With rampant poverty, increasing pressure on land, continuing deforestation, the status quo is not a desirable option in places like Mozambique. The challenge is thus about ramping up research efforts, datasets and monitoring tools development and mainstreaming, institutional strengthening, and policy responses, along with investments in agriculture and other economic activities. As team member Dilini Abeygunawardane often says, the challenge is about “attracting the right kind of investors, and investments”, to address sustainability challenges. 
 
-References (see other blog posts and the Publications page for many more references on these issues)
+**References**
 
-Henderson, J., Godar, J., Frey, G. P., Börner, J., & Gardner, T. (2021). The Paraguayan Chaco at a crossroads: drivers of an emerging soybean frontier. Regional Environmental Change, 21(3), 1-14. https://doi.org/10.1007/s10113-021-01804-z
+- Henderson, J., Godar, J., Frey, G. P., Börner, J., & Gardner, T. (2021). The Paraguayan Chaco at a crossroads: drivers of an emerging soybean frontier. Regional Environmental Change, 21(3), 1-14. https://doi.org/10.1007/s10113-021-01804-z
 
-le Polain de Waroux, Y. (2019). Capital has no homeland: The formation of transnational producer cohorts in South America’s commodity frontiers. Geoforum, 105, 131-144. https://doi.org/10.1016/j.geoforum.2019.05.016
+- le Polain de Waroux, Y. (2019). Capital has no homeland: The formation of transnational producer cohorts in South America’s commodity frontiers. Geoforum, 105, 131-144. https://doi.org/10.1016/j.geoforum.2019.05.016
 
-Meyfroidt, P. (2021). Emerging agricultural expansion in northern regions: Insights from land-use research. One Earth, 4(12), 1661-1664. https://doi.org/10.1016/j.oneear.2021.11.019
+- Meyfroidt, P. (2021). Emerging agricultural expansion in northern regions: Insights from land-use research. One Earth, 4(12), 1661-1664. https://doi.org/10.1016/j.oneear.2021.11.019
