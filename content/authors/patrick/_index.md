@@ -4,7 +4,7 @@ title: Patrick Meyfroidt
 
 # Full Name (for SEO)
 first_name: Patrick
-last_name: Meyfroidt
+last_name: _Meyfroidt
 
 # Is this the primary user of the site?
 superuser: true
