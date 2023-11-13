@@ -1,12 +1,12 @@
 ---
 title: 'Transparency, traceability and deforestation in the Ivorian cocoa supply chain'
 authors:
-  - cecile
-  - Mathil Vandromme
-  - admin
+  - cecile-renier
+  - mathil-vandromme
+  - patrick-meyfroidt
   - Vivian Ribeiro
   - Nikolai Kalischek
-  - erasmus
+  - erasmus-zuermgassen
 date: '2023-01-31T00:00:00Z'
 doi: '10.1088/1748-9326/acad8e'
 
