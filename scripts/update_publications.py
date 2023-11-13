@@ -48,8 +48,8 @@ DATE_PATTERNS = [(re.compile(r), p) for r, p in DATE_PATTERNS]
 root = pathlib.Path(__file__).parents[1]
 DIR_PUBLICATION = root / 'content' / 'publication'
 
-url_ris = r'https://box.hu-berlin.de/d/ed4837370b904147a98f/files'
-file_url = r'https://box.hu-berlin.de/f/944d10e767e542c7ba72/?dl=1'
+url_ris = r'https://box.hu-berlin.de/d/22b37f47e037474e852c/files'
+file_url = r'https://box.hu-berlin.de/f/944d10e767e542c7ba72/?p=%2Flit_database.ris&dl=1'
 tmp_dir = root / 'tmp'
 
 AUTHORS = authors()
@@ -109,7 +109,7 @@ def downloadReferences(enforce: bool = False) -> pathlib.Path:
   """
     # Create the download directory if it doesn't exist
     os.makedirs(tmp_dir, exist_ok=True)
-    pathSrc = re.split('(&|%2F)', file_url)[-3]
+    pathSrc = re.split('(&|%2F)', file_url)[-3] #PR changed from [-3]
     pathSrc = pathlib.Path(tmp_dir) / pathSrc
 
     # Check if the file already exists
@@ -413,7 +413,8 @@ def updatePublications(enforce_download: bool = False,
 
     if not success:
         print(f'Errors/Inconsistencies in {pathBIB}:')
-        errors = sorted(errors, key=lambda line: int(line.split(' ')[0]))
+        #errors = sorted(errors, key=lambda line: int(line.split(' ')[0]))
+        errors = sorted(errors, key=lambda line: line.split(' ')[0])
         errorInfo = '\n'.join(errors)
         print(errorInfo, file=sys.stderr)
         with open(pathLog, 'w', encoding='utf8') as f:
@@ -476,9 +477,6 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-#    updatePublications(enforce_download=args.enforce_download,
-#                       dry_run=args.dry_run,
-#                       verify_only=args.verify_only)
-    updatePublications(enforce_download=True,
-                       dry_run=True,
-                       verify_only=False)
+    updatePublications(enforce_download=args.enforce_download,
+                       dry_run=args.dry_run,
+                       verify_only=args.verify_only)
