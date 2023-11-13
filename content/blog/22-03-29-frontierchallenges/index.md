@@ -6,7 +6,7 @@ image:
   caption: '“American Progress” (John Gast, 1872). Painting in the public domain. Obtained from [Wikimedia](https://commons.wikimedia.org/wiki/File:American_Progress_(John_Gast_painting).jpg)'
 
 authors: 
-- patrick
+- patrick-meyfroidt
 
 ---
 

@@ -5,8 +5,8 @@ image:
   focal_point: 'top'
 
 authors: 
-- philippe
-- cristina
+- philippe-rufin
+- cristina-chiarella
 
 ---
 

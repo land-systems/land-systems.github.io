@@ -17,9 +17,9 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: 
-  - cecile
-  - erasmus
-  - patrick
+  - cecile-renier
+  - erasmus-zuermgassen
+  - patrick-meyfroidt
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -16,8 +16,8 @@ all_day: false
 publishDate: 
 
 authors: 
-  - philippe
-  - patrick
+  - philippe-rufin
+  - patrick-meyfroidt
 
 tags: []
 

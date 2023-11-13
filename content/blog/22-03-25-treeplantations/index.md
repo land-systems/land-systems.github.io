@@ -6,8 +6,8 @@ image:
   caption: ''
 
 authors: 
-- patrick
-- adia
+- patrick-meyfroidt
+- adia-bey
 
 ---
 

@@ -5,8 +5,8 @@ image:
   focal_point: 'top'
 
 authors: 
-- eduardo
-- patrick
+- eduardo-oliveira
+- patrick-meyfroidt
 
 ---
 We propose and discuss how strategic spatial planning could play a role in governing land-use frontiers.

@@ -5,8 +5,8 @@ image:
   focal_point: 'top'
 
 authors: 
-- cristina
-- patrick
+- cristina-chiarella
+- patrick-meyfroidt
 
 ---
 

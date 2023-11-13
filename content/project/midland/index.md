@@ -16,7 +16,7 @@ all_day: false
 publishDate: 
 
 authors: 
-  - patrick
+  - patrick-meyfroidt
 
 tags: []
 

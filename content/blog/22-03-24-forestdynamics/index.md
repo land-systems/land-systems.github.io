@@ -3,8 +3,8 @@ title: Theories on Long- and Short-Run Forest Dynamics - Forest Transition, Envi
 date: 2022-03-24
 
 authors: 
-- patrick
-- virginia
+- patrick-meyfroidt
+- virginia-garcia
 
 ---
 
