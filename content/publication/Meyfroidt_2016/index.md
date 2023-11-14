@@ -6,10 +6,12 @@ date: '2016-01-01'
 publication: Journal of Land Use Science
 publication_types:
 - '2'
-abstract: Journal of Land Use Science, 2015. doi:10.1080/1747423X.2015.1117530
+abstract: ''
 tags:
-- land use change | causal inference | proximate cause | spatial determinant | theory
-  development and testing | underlying driver
-links: []
+- ''
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84951289468&doi=10.1080%2f1747423X.2015.1117530&partnerID=40&md5=bcd4404c222695597df33002d7581d96
 doi: 10.1080/1747423X.2015.1117530
 ---

@@ -2,25 +2,25 @@
 title: 'Land system science and sustainable development of the earth system: A global
   land project perspective'
 authors:
-- Peter Verburg
-- Neville Crossman
-- Erle Ellis
-- Andreas Heinimann
-- Patrick Hostert
-- Ole Mertz
-- Harini Nagendra
-- Thomas Sikor
-- Karl-Heinz Erb
-- Nancy Golubiewski
-- Ricardo Grau
-- Morgan Grove
-- Souleymane Konaté
+- P.H. Verburg
+- N. Crossman
+- E.C. Ellis
+- A. Heinimann
+- P. Hostert
+- O. Mertz
+- H. Nagendra
+- T. Sikor
+- K.-H. Erb
+- N. Golubiewski
+- R. Grau
+- M. Grove
+- S. Konaté
 - patrick-meyfroidt
-- Dawn Parker
-- Rinku Chowdhury
-- Hideaki Shibata
-- Allison Thomson
-- Lin Zhen
+- D.C. Parker
+- R.R. Chowdhury
+- H. Shibata
+- A. Thomson
+- L. Zhen
 date: '2015-01-01'
 publication: Anthropocene
 publication_types:
@@ -28,6 +28,9 @@ publication_types:
 abstract: ''
 tags:
 - ''
-links: []
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84951861475&doi=10.1016%2fj.ancene.2015.09.004&partnerID=40&md5=80d9c62649f69cbacaede3fd567b3307
 doi: 10.1016/j.ancene.2015.09.004
 ---

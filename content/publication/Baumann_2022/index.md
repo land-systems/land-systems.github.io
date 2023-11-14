@@ -1,29 +1,26 @@
 ---
 title: Frontier metrics for a process-based understanding of deforestation dynamics
 authors:
-- Matthias Baumann
-- Ignacio Gasparri
-- Ana Buchadas
-- Julian Oeser
+- M. Baumann
+- I. Gasparri
+- A. Buchadas
+- J. Oeser
 - patrick-meyfroidt
-- Christian Levers
-- Alfredo Romero-Muñoz
-- Yann Waroux
-- Daniel Müller
-- Tobias Kuemmerle
+- C. Levers
+- A. Romero-Muñoz
+- Y. Le Polain De Waroux
+- D. Müller
+- T. Kuemmerle
 date: '2022-01-01'
 publication: Environmental Research Letters
 publication_types:
 - '2'
-abstract: 'Environmental Research Letters, 17 (2022) 095010 doi: 10.1088/1748-9326/ac8b9a'
+abstract: ''
 tags:
-- deforestation | Agricultural expansion | commodity frontiers | commodity frontiers
-- deforestation
-- tropical dry forests and savannahs
-- agricultural expansion
-- social-ecological archetypes
-- Landsat time series | Landsat time series | social-ecological archetypes | tropical
-  dry forests and savannahs
-links: []
+- ''
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139401855&doi=10.1088%2f1748-9326%2fac8b9a&partnerID=40&md5=e6fa805a9cc3c69ecda06b85a249a0c6
 doi: 10.1088/1748-9326/ac8b9a
 ---

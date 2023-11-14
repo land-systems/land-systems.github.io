@@ -2,83 +2,66 @@
 title: Ten facts about land systems for sustainability
 authors:
 - patrick-meyfroidt
-- Ariane Bremond
-- Casey Ryan
-- Emma Archer
-- Richard Aspinall
-- Abha Chhabra
-- Gilberto Camara
-- Esteve Corbera
-- RUTH DEFRIES
-- Sandra Díaz
-- Jinwei Dong
-- Erle Ellis
-- Karl-Heinz Erb
-- Janet Fisher
-- Rachael Garrett
-- Nancy Golubiewski
-- H. Grau
-- J. Grove
-- Helmut Haberl
-- Andreas Heinimann
-- Patrick Hostert
-- Esteban Jobbágy
-- Suzi Kerr
-- Tobias Kuemmerle
-- Eric Lambin
-- Sandra Lavorel
-- Sharachandra Lele
-- Ole Mertz
-- Peter Messerli
-- Graciela Metternicht
-- Darla Munroe
-- Harini Nagendra
-- Jonas Nielsen
-- Dennis Ojima
-- Dawn Parker
-- Unai Pascual
-- John Porter
-- Navin Ramankutty
-- Anette Reenberg
-- Rinku Roy Chowdhury
-- Karen Seto
-- Verena Seufert
-- Hideaki Shibata
-- Allison Thomson
-- Billie Turner
-- Jotaro Urabe
-- Tom Veldkamp
-- Peter Verburg
-- Gete Zeleke
+- A. Bremond
+- C.M. Ryan
+- E. Archer
+- R. Aspinall
+- A. Chhabra
+- G. Camara
+- E. Corbera
+- R. DeFries
+- S. Díaz
+- J. Dong
+- E.C. Ellis
+- K.-H. Erb
+- J.A. Fisher
+- R.D. Garrett
+- N.E. Golubiewski
+- H.R. Grau
+- J.M. Grove
+- H. Haberl
+- A. Heinimann
+- P. Hostert
+- E.G. Jobbágy
+- S. Kerr
+- T. Kuemmerle
+- E.F. Lambin
+- S. Lavorel
+- S. Lele
+- O. Mertz
+- P. Messerli
+- G. Metternicht
+- D.K. Munroe
+- H. Nagendra
+- J.Ø. Nielsen
+- D.S. Ojima
+- D.C. Parker
+- U. Pascualc
+- J.R. Porter
+- N. Ramankutty
+- A. Reenberg
+- R.R. Chowdhury
+- K.C. Seto
+- V. Seufert
+- H. Shibata
+- A. Thomson
+- II Turner
+- J. Urabe
+- T. Veldkamp
+- P.H. Verburg
+- G. Zeleke
 - erasmus-zuermgassen
 date: '2022-01-01'
 publication: Proceedings of the National Academy of Sciences of the United States
   of America
 publication_types:
 - '2'
-abstract: 'Land use is central to addressing sustainability issues, including biodiversity
-  conservation, climate change, food security, poverty alleviation, and sustainable
-  energy. In this paper, we synthesize knowledge accumulated in land system science,
-  the integrated study of terrestrial social-ecological systems, into 10 hard truths
-  that have strong, general, empirical support. These facts help to explain the challenges
-  of achieving sustainability in land use and thus also point toward solutions. The
-  10 facts are as follows: 1) Meanings and values of land are socially constructed
-  and contested; 2) land systems exhibit complex behaviors with abrupt, hard-to-predict
-  changes; 3) irreversible changes and path dependence are common features of land
-  systems; 4) some land uses have a small footprint but very large impacts; 5) drivers
-  and impacts of land-use change are globally interconnected and spill over to distant
-  locations; 6) humanity lives on a used planet where all land provides benefits to
-  societies; 7) land-use change usually entails trade-offs between different benefits-&quot;win-wins&quot;
-  are thus rare; 8) land tenure and land-use claims are often unclear, overlapping,
-  and contested; 9) the benefits and burdens from land are unequally distributed;
-  and 10) land users have multiple, sometimes conflicting, ideas of what social and
-  environmental justice entails. The facts have implications for governance, but do
-  not provide fixed answers. Instead they constitute a set of core principles which
-  can guide scientists, policy makers, and practitioners toward meeting sustainability
-  challenges in land use.'
+abstract: ''
 tags:
-- agriculture | Humans | Ecosystem | Conservation of Natural Resources/methods | Renewable
-  energy | Social Change
-links: []
+- ''
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124259162&doi=10.1073%2fpnas.2109217118&partnerID=40&md5=3c5b4a31399e440c66757b92980892e8
 doi: 10.1073/pnas.2109217118
 ---

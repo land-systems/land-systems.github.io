@@ -2,33 +2,19 @@
 title: Forest transitions, trade, and the global displacement of land use
 authors:
 - patrick-meyfroidt
-- Thomas Rudel
-- Eric Lambin
+- T.K. Rudel
+- E.F. Lambin
 date: '2010-01-01'
 publication: Proceedings of the National Academy of Sciences of the United States
   of America
 publication_types:
 - '2'
-abstract: Reducing tropical deforestation is an international priority, given its
-  impacts on carbon emissions and biodiversity. We examined whether recent forest
-  transitions--a shift from net deforestation to net reforestation--involved a geographic
-  displacement of forest clearing across countries through trade in agricultural and
-  forest products. In most of the seven developing countries that recently experienced
-  a forest transition, displacement of land use abroad accompanied local reforestation.
-  Additional global land-use change embodied in their net wood trade offset 74% of
-  their total reforested area. Because the reforesting countries continued to export
-  more agricultural goods than they imported, this net displacement offset 22% of
-  their total reforested area when both agriculture and forestry sectors are included.
-  However, this net displacement increased to 52% during the last 5 y. These countries
-  thus have contributed to a net global reforestation and/or decrease in the pressure
-  on forests, but this global environmental benefit has been shrinking during recent
-  years. The net decrease in the pressure on forests does not account for differences
-  in their ecological quality. Assessments of the impacts of international policies
-  aimed at reducing global deforestation should integrate international trade in agricultural
-  and forest commodities.
+abstract: ''
 tags:
-- agriculture | Forestry | Trees | Conservation of Natural Resources/economics/trends
-  | Geography/economics/trends | Marketing
-links: []
+- ''
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-78650475880&doi=10.1073%2fpnas.1014773107&partnerID=40&md5=e5efac3d195c4cc946d9e20236d28814
 doi: 10.1073/pnas.1014773107
 ---
