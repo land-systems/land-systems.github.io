@@ -1,7 +1,7 @@
 ---
 title: Environmental Governance of China's Belt and Road Initiative
 authors:
-- J. Coenen
+- johanna-coenen
 - S. Bager
 - patrick-meyfroidt
 - J. Newig

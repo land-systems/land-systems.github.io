@@ -2,7 +2,7 @@
 title: A mid-20th century inventory-based estimate of global terrestrial vegetation
   carbon stocks
 authors:
-- M. Bhan
+- manan-bhan
 - patrick-meyfroidt
 - S. Matej
 - K.-H. Erb

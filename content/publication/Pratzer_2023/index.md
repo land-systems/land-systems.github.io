@@ -2,7 +2,7 @@
 title: Agricultural intensification, Indigenous stewardship and land sparing in tropical
   dry forests
 authors:
-- M. Pratzer
+- marie-pratzer
 - Á. Fernández-Llamazares
 - patrick-meyfroidt
 - T. Krueger

@@ -2,13 +2,13 @@
 title: Tropical dry woodland loss occurs disproportionately in areas of highest conservation
   value
 authors:
-- A. Buchadas
+- ana-buchadas
 - M. Jung
 - M. Bustamante
 - Á. Fernández-Llamazares
 - S.T. Garnett
 - A.S. Nanni
-- N. Ribeiro
+- natasha-ribeiro
 - patrick-meyfroidt
 - T. Kuemmerle
 date: '2023-01-01'

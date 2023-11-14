@@ -6,7 +6,7 @@ authors:
 - A. Kronenburg García
 - Z. Sun
 - D. Müller
-- A. Sitoe
+- almeida-sitoe
 - patrick-meyfroidt
 date: '2022-01-01'
 publication: Ambio

@@ -1,7 +1,7 @@
 ---
 title: Toward spatial fit in the governance of global commodity flows
 authors:
-- J. Coenen
+- johanna-coenen
 - G. Sonderegger
 - J. Newig
 - patrick-meyfroidt
@@ -12,8 +12,8 @@ authors:
 - C. Friis
 - A.F. Pedersen
 - P.C.S.J. Laroche
-- C.P. Paitan
-- S. Qin
+- claudia-paitan
+- siyu-qin
 - N. Roux
 - J.G. Zaehringer
 date: '2023-01-01'

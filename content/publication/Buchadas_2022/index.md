@@ -2,7 +2,7 @@
 title: Uncovering major types of deforestation frontiers across the world’s tropical
   dry woodlands
 authors:
-- A. Buchadas
+- ana-buchadas
 - M. Baumann
 - patrick-meyfroidt
 - T. Kuemmerle

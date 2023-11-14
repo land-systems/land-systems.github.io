@@ -2,7 +2,7 @@
 title: The geography of international conservation interest in South American deforestation
   frontiers
 authors:
-- S. Qin
+- siyu-qin
 - T. Kuemmerle
 - patrick-meyfroidt
 - M. Napolitano Ferreira

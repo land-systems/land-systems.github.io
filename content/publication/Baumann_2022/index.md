@@ -3,7 +3,7 @@ title: Frontier metrics for a process-based understanding of deforestation dynam
 authors:
 - M. Baumann
 - I. Gasparri
-- A. Buchadas
+- ana-buchadas
 - J. Oeser
 - patrick-meyfroidt
 - C. Levers

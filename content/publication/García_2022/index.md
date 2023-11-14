@@ -4,7 +4,7 @@ authors:
 - A.K. García
 - patrick-meyfroidt
 - dilini-abeygunawardane
-- A.A. Sitoe
+- almeida-sitoe
 date: '2022-01-01'
 publication: Ecology and Society
 publication_types:

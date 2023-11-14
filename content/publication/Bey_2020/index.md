@@ -3,10 +3,10 @@ title: Mapping smallholder and large-scale cropland dynamics with a flexible cla
   system and pixel-based composites in an emerging frontier of Mozambique
 authors:
 - adia-bey
-- J. Jetimane
-- S.N. Lisboa
-- N. Ribeiro
-- A. Sitoe
+- julieta-jetimane
+- sa-lisboa
+- natasha-ribeiro
+- almeida-sitoe
 - patrick-meyfroidt
 date: '2020-01-01'
 publication: Remote Sensing of Environment
