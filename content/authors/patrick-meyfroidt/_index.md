@@ -22,24 +22,29 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on how land systems can contribute to sustainability.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Land use and forest transitions
+  - Land systems as component of the Earth system
+  - Globalization, international trade and land use changes
+  - Linkages between environmental cognitions and land changes, and feedbacks in social-ecological systems
+  - Governance and policy options for sustainable land uses
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Geography
+      institution: UCLouvain
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: DEA in Sociology (postgraduate level)
+      institution: UCLouvain
+      year: 2003
+    - course: PostGraduate Diploma in Human Ecology
+      institution: Free University of Brussels (VUB)
+      year: 2001
+    - course: Licence en Sciences Géographiques (master)
+      institution: UCLouvain
+      year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
