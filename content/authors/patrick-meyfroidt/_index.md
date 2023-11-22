@@ -18,7 +18,7 @@ role: Professor of Land Systems and Sustainability Science
 
 # Organizations/Affiliations
 organizations:
-  - name: UCLouvain
+  - name: UCLouvain & F.R.S.-FNRS
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
