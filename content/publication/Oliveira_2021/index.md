@@ -10,10 +10,10 @@ publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- Geography | Management | Monitoring | Policy and Law | Planning and Development
+  | Earth-Surface Processes
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121845805&doi=10.1080%2f1747423X.2021.2015471&partnerID=40&md5=a39f9110ed4f2fe8b38a298e4e09d0a8
-doi: 10.1080/1747423X.2021.2015471
+  url: http://hdl.handle.net/2078.1/256439
+doi: 10.1080/1747423x.2021.2015471
 ---

@@ -9,10 +9,9 @@ publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- General Environmental Science | Earth and Planetary Sciences (miscellaneous)
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123239713&doi=10.1016%2fj.oneear.2021.11.019&partnerID=40&md5=08e3c9dc67a04dcde976623d1343d7e5
+  url: http://hdl.handle.net/2078.1/256440
 doi: 10.1016/j.oneear.2021.11.019
 ---

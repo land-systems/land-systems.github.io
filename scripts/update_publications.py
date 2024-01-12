@@ -48,8 +48,8 @@ DATE_PATTERNS = [(re.compile(r), p) for r, p in DATE_PATTERNS]
 root = pathlib.Path(__file__).parents[1]
 DIR_PUBLICATION = root / 'content' / 'publication'
 
-url_ris = r'https://box.hu-berlin.de/f/b2beff7d5e1e42738520/files'
-file_url = r'https://box.hu-berlin.de/f/b2beff7d5e1e42738520/?p=%2Flss_lab.ris&dl=1'
+#url_ris = r'https://box.hu-berlin.de/f/b2beff7d5e1e42738520/files'
+file_url = r'https://box.hu-berlin.de/f/70cf82843fc64ad09aa4/?p=%2Flss_lab.ris&dl=1'
 tmp_dir = root / 'tmp'
 
 AUTHORS = authors()

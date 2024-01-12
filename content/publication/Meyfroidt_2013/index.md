@@ -1,20 +1,31 @@
 ---
-title: Trajectories of deforestation, coffee expansion and displacement of shifting
-  cultivation in the Central Highlands of Vietnam
+title: 'Environmental cognitions, land change, and social–ecological feedbacks : an
+  overview'
 authors:
 - patrick-meyfroidt
-- T.P. Vu
-- V.A. Hoang
-date: '2013-01-01'
-publication: Global Environmental Change
+date: '2013-02-01'
+publication: Journal of Land Use Science
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Understanding land use transitions requires analyzing how, when facing
+  qualitative environmental change, human agents may modify their beliefs, values,
+  and decision rules. This article first reviews some of the useful theories analyzing
+  how environmental change can have a feedback effect on behaviors, via the environmental
+  cognitions. Then, it discusses three propositions for more cognitively realistic
+  agents in land change science: (i) land use choices result from multiple decision-making
+  processes and rely on various motives, influenced by social norms, emotions, beliefs,
+  and values toward the environment; (ii) social–ecological feedbacks are mediated
+  by the environmental cognitions, that is, the perception, interpretation, evaluation
+  of environmental change, and decision-making; (iii) human agents actively re-evaluate
+  their beliefs, values, and functioning to adapt to unexpected environmental changes.
+  Empirical and modeling studies in land change science can progress by linking the
+  three components of the feedback loop, that is, environmental changes, environmental
+  cognitions, and land use practices.'
 tags:
-- ''
+- 1443 | agent behavior | drivers of environmental change | human–environment interactions
+  | land use change | social process
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886718161&doi=10.1016%2fj.gloenvcha.2013.04.005&partnerID=40&md5=2c734d52f7aa51b28bd4ee4234d8bdbf
-doi: 10.1016/j.gloenvcha.2013.04.005
+  url: http://hdl.handle.net/2078.1/110957
+doi: 10.1080/1747423X.2012.667452
 ---

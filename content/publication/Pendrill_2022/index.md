@@ -1,38 +1,37 @@
 ---
 title: Disentangling the numbers behind agriculture-driven tropical deforestation
 authors:
-- F. Pendrill
-- T.A. Gardner
+- Florence Pendrill
+- Toby Gardner
 - patrick-meyfroidt
-- U.M. Persson
-- J. Adams
-- T. Azevedo
-- M.G.B. Lima
-- M. Baumann
-- P.G. Curtis
-- V. De Sy
-- R. Garrett
-- J. Godar
-- E.D. Goldman
-- M.C. Hansen
-- R. Heilmayr
-- M. Herold
-- T. Kuemmerle
-- M.J. Lathuillière
-- V. Ribeiro
-- A. Tyukavina
-- M.J. Weisse
-- C. West
+- U. Persson
+- Justin Adams
+- Tasso Azevedo
+- Mairon Bastos Lima
+- Matthias Baumann
+- Philip Curtis
+- Veronique De Sy
+- Rachael Garrett
+- Javier Godar
+- Elizabeth Goldman
+- Matthew Hansen
+- Robert Heilmayr
+- Martin Herold
+- Tobias Kuemmerle
+- Michael Lathuillière
+- Vivian Ribeiro
+- Alexandra Tyukavina
+- Mikaela Weisse
+- Chris West
 date: '2022-01-01'
 publication: Science
 publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- Multidisciplinary
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137608761&doi=10.1126%2fscience.abm9267&partnerID=40&md5=36d79fecb8bd9976a29a5ec057196c0e
+  url: http://hdl.handle.net/2078.1/264907
 doi: 10.1126/science.abm9267
 ---

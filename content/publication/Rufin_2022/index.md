@@ -12,10 +12,10 @@ publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- Management | Monitoring | Policy and Law | Earth-Surface Processes | Global and
+  Planetary Change | Computers in Earth Sciences
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135099832&doi=10.1016%2fj.jag.2022.102937&partnerID=40&md5=1554764834cf2a178e3eb49c383ef2ed
+  url: http://hdl.handle.net/2078.1/269547
 doi: 10.1016/j.jag.2022.102937
 ---

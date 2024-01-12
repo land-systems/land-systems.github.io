@@ -1,25 +1,33 @@
 ---
 title: Governing flows in telecoupled land systems
 authors:
-- D.K. Munroe
-- M. Batistella
-- C. Friis
-- N.I. Gasparri
-- E.F. Lambin
-- J. Liu
+- Darla Munroe
+- Mateus Batistella
+- Cecilie Friis
+- Nestor Gasparri
+- Eric Lambin
+- Jianguo Liu
 - patrick-meyfroidt
-- E. Moran
-- J.Ø. Nielsen
+- Emilio Moran
+- Jonas Nielsen
 date: '2019-01-01'
 publication: Current Opinion in Environmental Sustainability
 publication_types:
 - '2'
-abstract: ''
+abstract: The increasing global interconnectivity influencing land system changebringswith
+  it newchallengesforland-system science.We evaluate whether recentland-system science
+  (LSS) research into telecoupling provides a basis to set normative goals or priorities
+  for addressing sustainability in coupled human-natural systems. We summarize the
+  challenges for sustainability in an increasingly telecoupled world, particularly
+  the coordination of multisited, multiscalar networks of public and private sector
+  actors. Transnational flows of capital, commodities, energy, people, and waste often
+  span multiple territorial jurisdictions. Thus, effective governance of such systems
+  requires attention to collective decision-making and negotiation among governments,
+  firms, land users, consumers, financial actors, and others
 tags:
-- ''
+- General Environmental Science | General Social Sciences
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066313628&doi=10.1016%2fj.cosust.2019.05.004&partnerID=40&md5=e46502de001435f9e9f2c04efac01d6b
+  url: http://hdl.handle.net/2078.1/216822
 doi: 10.1016/j.cosust.2019.05.004
 ---

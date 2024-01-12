@@ -14,10 +14,9 @@ publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- Computers in Earth Sciences | Geology | Soil Science
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077394572&doi=10.1016%2fj.rse.2019.111611&partnerID=40&md5=974d3fea7c4e3f329253183f7cb86163
+  url: http://hdl.handle.net/2078.1/225692
 doi: 10.1016/j.rse.2019.111611
 ---

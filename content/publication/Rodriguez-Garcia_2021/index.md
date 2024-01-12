@@ -1,0 +1,37 @@
+---
+title: 'Long- and Short-Run Forest Dynamics: An Empirical Assessment of Forest Transition,
+  Environmental Kuznets Curve and Ecologically Unequal Exchange Theories'
+authors:
+- virginia-garcia
+- Nicola Caravaggio
+- Frédéric Gaspart
+- patrick-meyfroidt
+date: '2021-01-01'
+publication: Forests
+publication_types:
+- '2'
+abstract: Forest dynamics are changing at a local and global level, with multiple
+  social and environmental implications. The current literature points to different
+  theories and hypotheses to explain these forest dynamics. In this paper, we formalized
+  some of those theories, the environmental Kuznets curve (EKC), the forest transition
+  and the ecologically unequal exchange, into hypotheses tested with a panel dataset
+  covering 111 countries during the period the period 1992–2015. Considering the nature
+  of our data, we relied on cointegration techniques to assess both long- and short-run
+  dynamics in forest change, avoiding possible spurious results. Moreover, we attempted
+  to disentangle direct and indirect effects of our independent variables to uncover
+  the mechanisms that underly forest change dynamics. The results show that there
+  is a long-run dynamic equilibrium relationship between forest cover area, economic
+  development, agricultural area and rural population density. Furthermore, our results
+  confirmed an EKC for high-income countries and post-forest transition countries,
+  while low- and middle-income economies are experiencing different paths. We showed
+  the importance of government quality as a positive feedback mechanism for previous
+  periods of deforestation when tested for all countries together as well as for pre-transition
+  and middle-income economies. Moreover, in low-income economies, economic development
+  affects forest mainly indirectly through the agricultural area
+tags:
+- Forestry
+links:
+- name: URL
+  url: http://hdl.handle.net/2078.1/245983
+doi: 10.3390/f12040431
+---

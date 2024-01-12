@@ -6,12 +6,24 @@ date: '2016-01-01'
 publication: Journal of Land Use Science
 publication_types:
 - '2'
-abstract: ''
+abstract: Research into land and social-ecological systems science could benefit from
+  improved clarity in the terminology used for causal analysis and a structured way
+  to make causal inferences. Here I identify two aspects of causality, i.e. causal
+  effects and causal mechanisms, and discuss explanation in historical sciences. I
+  then propose definitions for the major terms used for causal relations, including
+  driver, (spatial) determinant, location and contextual factor, proximate and underlying
+  factors. Finally, I discuss the contribution of various operational approaches,
+  including time series and counterfactual approaches for assessing causal effects
+  and process-tracing approaches for establishing causal mechanisms. Having a coherent
+  concept of causality, agreeing on a precise vocabulary and harnessing our tools
+  with the clear purpose of establishing both causal effects and causal mechanisms
+  should strengthen causal explanations for single cases, for drawing policy-relevant
+  lessons and for theoretical development in relation to land and, more broadly, social-ecological
+  systems processes.
 tags:
 - ''
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84951289468&doi=10.1080%2f1747423X.2015.1117530&partnerID=40&md5=bcd4404c222695597df33002d7581d96
+  url: http://hdl.handle.net/2078.1/168630
 doi: 10.1080/1747423X.2015.1117530
 ---

@@ -2,26 +2,47 @@
 title: 'Closing global knowledge gaps: Producing generalized knowledge from case studies
   of social-ecological systems'
 authors:
-- N.R. Magliocca
-- E.C. Ellis
-- G.R.H. Allington
-- A. Bremond
-- J. Dell'Angelo
-- O. Mertz
-- P. Messerli
+- Nicholas Magliocca
+- Erle Ellis
+- Ginger Allington
+- Ariane Bremond
+- Jampel Dell’Angelo
+- Ole Mertz
+- Peter Messerli
 - patrick-meyfroidt
-- R. Seppelt
-- P.H. Verburg
+- Ralf Seppelt
+- Peter Verburg
 date: '2018-01-01'
 publication: Global Environmental Change
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Concerns over rapid widespread changes in social-ecological systems and
+  their consequences for biodiversity, ecosystem functioning, food security, and human
+  livelihoods are driving demands for globally comprehensive knowledge to support
+  decision-making and policy development. Claims of regional or global knowledge about
+  the patterns, causes, and significance of changes in social-ecological systems,
+  or ‘generalized knowledge claims’ (GKCs), are generally produced by synthesis of
+  evidence compiled from local and regional case study observations. GKCs now constitute
+  a wide and varied body of research, yet they are also increasingly contested based
+  on disagreements about their geographic, temporal, and/or thematic validity. There
+  are no accepted guidelines for detecting biases or logical gaps between GKC’s and
+  the evidence used to produce them. Here, we propose a typology of GKCs based on
+  their evidence base and the process by which they are produced. The typology is
+  structured by three dimensions: i) the prior state of knowledge about the phenomenon
+  of interest; ii) the logic of generalization underlying the claim; and iii) the
+  methodology for generalization. From this typology, we propose a standardized approach
+  to assess the quality and commensurability of these dimensions for any given GKC,
+  and their ability to produce robust and transparent knowledge based on constituent
+  evidence. We then apply this approach to evaluate two contested GKCs – addressing
+  global biodiversity and large-scale land acquisitions – and in doing so demonstrate
+  a coherent approach to assessing and evaluating the scope and validity of GKCs.
+  With this approach, GKCs can be produced and applied with greater transparency and
+  accuracy, advancing the goal of actionable science on social-ecological systems.'
 tags:
-- ''
+- Ecology | Geography | Management | Monitoring | Policy and Law | Planning and Development
+  | Global and Planetary Change
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043493489&doi=10.1016%2fj.gloenvcha.2018.03.003&partnerID=40&md5=c8d779accac79d6e7f6fcffee556d77e
+  url: http://hdl.handle.net/2078.1/207374
 doi: 10.1016/j.gloenvcha.2018.03.003
 ---

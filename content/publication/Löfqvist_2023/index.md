@@ -1,38 +1,37 @@
 ---
-title: 'Erratum: How Social Considerations Improve the Equity and Effectiveness of
-  Ecosystem Restoration (BioScience (2023) 73:2 (134-148) DOI: 10.1093/biosci/biac099)'
+title: How Social Considerations Improve the Equity and Effectiveness of Ecosystem
+  Restoration
 authors:
-- S. Löfqvist
-- F. Kleinschroth
+- Sara Löfqvist
+- Fritz Kleinschroth
 - adia-bey
-- A. Bremond
-- R. DeFries
-- J. Dong
-- F. Fleischman
-- S. Lele
-- D.A. Martin
-- P. Messerli
+- Ariane Bremond
+- Ruth DeFries
+- Jinwei Dong
+- Forrest Fleischman
+- Sharachchandra Lele
+- Dominic Martin
+- Peter Messerli
 - patrick-meyfroidt
-- M. Pfeifer
-- S.O. Rakotonarivo
-- N. Ramankutty
-- V. Ramprasad
-- P. Rana
-- J.M. Rhemtulla
-- C.M. Ryan
-- I.C.G. Vieira
-- G.J. Wells
-- R.D. Garrett
+- Marion Pfeifer
+- Sarobidy Rakotonarivo
+- Navin Ramankutty
+- Vijay Ramprasad
+- Pushpendra Rana
+- Jeanine Rhemtulla
+- Casey Ryan
+- Ima Vieira
+- Geoff Wells
+- Rachael Garrett
 date: '2023-01-01'
 publication: BioScience
 publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- General Agricultural and Biological Sciences
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164802842&doi=10.1093%2fbiosci%2fbiad043&partnerID=40&md5=c3d9053383fe5a0314b7ac05313db921
-doi: 10.1093/biosci/biad043
+  url: http://hdl.handle.net/2078.1/269552
+doi: 10.1093/biosci/biac099
 ---

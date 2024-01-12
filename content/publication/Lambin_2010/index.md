@@ -1,18 +1,32 @@
 ---
 title: 'Land use transitions: Socio-ecological feedback versus socio-economic change'
 authors:
-- E.F. Lambin
+- Eric Lambin
 - patrick-meyfroidt
 date: '2010-01-01'
 publication: Land Use Policy
 publication_types:
 - '2'
-abstract: ''
+abstract: The concept of land use transition highlights that land use change is non-linear
+  and is associated with other societal and biophysical system changes. A transition
+  in land use is not a fixed pattern, nor is it deterministic. Land use transitions
+  can be caused by negative socio-ecological feedbacks that arise from a depletion
+  of key resources or from socio-economic change and innovation that take place rather
+  independently from the ecological system. Here, we explore whether the sources of
+  land use transitions are mostly endogenous socio-ecological forces or exogenous
+  socio-economic factors. We first review a few generic pathways of forest transition
+  as identified in national case studies, and evaluate the varying ecological quality
+  of expanding forests associated with these pathways. We then discuss possible explanatory
+  frameworks of land use transitions. We use the case of the recent forest transition
+  in Vietnam as an illustration. Socio-ecological feedbacks seem to better explain
+  a slowing down of deforestation and stabilization of forest cover, while exogenous
+  socio-economic factors better account for reforestation. We conclude by discussing
+  the prospects of accelerating land use transitions in tropical forest countries.
+  (C) 2009 Elsevier Ltd. All rights reserved.
 tags:
-- ''
+- Land use | Land cover | Transition | Vietnam | Forest transition | Reforestation
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-70449642396&doi=10.1016%2fj.landusepol.2009.09.003&partnerID=40&md5=7a74176ffbc89b07e041ec87a06da539
+  url: http://hdl.handle.net/2078.1/34501
 doi: 10.1016/j.landusepol.2009.09.003
 ---

@@ -1,23 +1,30 @@
 ---
 title: 'Sustainable intensification in land systems: trade-offs, scales, and contexts'
 authors:
-- A.M. Thomson
-- E.C. Ellis
-- H.R. Grau
-- T. Kuemmerle
+- Allison Thomson
+- Erle Ellis
+- HÉctor Grau
+- Tobias Kuemmerle
 - patrick-meyfroidt
-- N. Ramankutty
-- G. Zeleke
+- Navin Ramankutty
+- Gete Zeleke
 date: '2019-01-01'
 publication: Current Opinion in Environmental Sustainability
 publication_types:
 - '2'
-abstract: ''
+abstract: Sustainable intensification of agricultural production is expected to be
+  an important pathway for achieving future food security while protecting the environment.
+  Recognizing that there is no single answer to how different dimensions of intensification
+  can be achieved sustainably, we identify opportunities for research across spatial
+  scales. We focus specifically on research questions around advances in technology
+  and management and suggest that progress on these questions can be made by (i) improving
+  understanding of trade-offs, especially across scales, (ii) recognition of the context-specificity
+  of how agricultural intensification can become more sustainable, and (iii) development,
+  access and wider use of global datasets for integrative research.
 tags:
-- ''
+- General Environmental Science | General Social Sciences
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066245797&doi=10.1016%2fj.cosust.2019.04.011&partnerID=40&md5=1eb05e4da18132a34ac4268c150b6cd8
+  url: http://hdl.handle.net/2078.1/216851
 doi: 10.1016/j.cosust.2019.04.011
 ---

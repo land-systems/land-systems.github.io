@@ -1,18 +1,28 @@
 ---
-title: 'Global forest transition: Prospects for an end to deforestation'
+title: 'Drivers and consequences of tropical forest transitions: options to bypass
+  land degradation?'
 authors:
 - patrick-meyfroidt
-- E.F. Lambin
-date: '2011-01-01'
-publication: ''
+- Meine Noordwijk
+- Peter Minang
+- Sonya Dewi
+- Eric Lambin
+date: '2011-11-01'
+publication: ASB PolicyBrief
 publication_types:
-- '0'
-abstract: ''
+- '2'
+abstract: The early studies of the ASB Partnership for the Tropical Forest Margins
+  stratified the domain for study into stages of a generic transition pathway that
+  suggested a strongly non-linear trajectory of change. In this scheme, a phase of
+  degradation of aboveground vegetation, based on over-logging or shortening fallow
+  cycles in intensified swiddens can lead to a grass-fire cycle that needs special
+  conditions to allow successful rehabilitation. Many places with current agroforestry
+  and tree mosaics have gone through such a phase. A new review of the global literature
+  on these ‘forest transitions’ by Meyfroidt and Lambin (2011) framed important conclusions.
 tags:
 - ''
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-80155146820&doi=10.1146%2fannurev-environ-090710-143732&partnerID=40&md5=92b0dccaba9010051eb8e50292932d9f
-doi: 10.1146/annurev-environ-090710-143732
+  url: http://hdl.handle.net/2078.1/107799
+doi: https://hdl.handle.net/10568/42016
 ---

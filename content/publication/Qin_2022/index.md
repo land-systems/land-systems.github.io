@@ -3,24 +3,23 @@ title: The geography of international conservation interest in South American de
   frontiers
 authors:
 - siyu-qin
-- T. Kuemmerle
+- Tobias Kuemmerle
 - patrick-meyfroidt
-- M. Napolitano Ferreira
-- G.I. Gavier Pizarro
-- M.E. Periago
+- Mariana Napolitano Ferreira
+- Gregorio Gavier Pizarro
+- Maria Periago
 - tiago-reis
-- A. Romero-Muñoz
-- A. Yanosky
+- Alfredo Romero‐Muñoz
+- Alberto Yanosky
 date: '2022-01-01'
 publication: Conservation Letters
 publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- Ecology | Nature and Landscape Conservation | Behavior and Systematics | Evolution
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122313926&doi=10.1111%2fconl.12859&partnerID=40&md5=ff8db3db6de1f6c5cd137d10ba2b0ddf
+  url: http://hdl.handle.net/2078.1/256443
 doi: 10.1111/conl.12859
 ---

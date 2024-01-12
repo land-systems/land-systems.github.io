@@ -3,7 +3,7 @@ title: Environmental governance of a Belt and Road project in Montenegro – Nat
   agency and external influences
 authors:
 - johanna-coenen
-- J. Newig
+- Jens Newig
 - patrick-meyfroidt
 date: '2022-01-01'
 publication: Land Use Policy
@@ -11,10 +11,10 @@ publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- Forestry | Geography | Management | Monitoring | Policy and Law | Planning and Development
+  | Nature and Landscape Conservation
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129493617&doi=10.1016%2fj.landusepol.2022.106136&partnerID=40&md5=6b805d7440cff353ce03d80cfb26c680
+  url: http://hdl.handle.net/2078.1/269546
 doi: 10.1016/j.landusepol.2022.106136
 ---

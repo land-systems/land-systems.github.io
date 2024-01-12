@@ -3,22 +3,23 @@ title: Agricultural intensification, Indigenous stewardship and land sparing in 
   dry forests
 authors:
 - marie-pratzer
-- Á. Fernández-Llamazares
+- Álvaro Fernández-Llamazares
 - patrick-meyfroidt
-- T. Krueger
-- M. Baumann
-- S.T. Garnett
-- T. Kuemmerle
+- Tobias Krueger
+- Matthias Baumann
+- Stephen Garnett
+- Tobias Kuemmerle
 date: '2023-01-01'
 publication: Nature Sustainability
 publication_types:
 - '2'
 abstract: ''
 tags:
-- ''
+- Ecology | Geography | Management | Monitoring | Policy and Law | Planning and Development
+  | Global and Planetary Change | Food Science | Nature and Landscape Conservation
+  | Renewable Energy | Sustainability and the Environment | Urban Studies
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147742207&doi=10.1038%2fs41893-023-01073-0&partnerID=40&md5=89389d7a365a96e4b3547ca27c9bbbbe
+  url: http://hdl.handle.net/2078.1/275304
 doi: 10.1038/s41893-023-01073-0
 ---

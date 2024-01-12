@@ -1,0 +1,43 @@
+---
+title: Assessing land use/cover dynamics and exploring drivers in the Amazon's arc
+  of deforestation through a hierarchical, multi-scale and multi-temporal classification
+  approach
+authors:
+- andrea-garcia
+- Vívian F. N. Vilela
+- Rodnei Rizzo
+- Paul West
+- James Gerber
+- Peder Engstrom
+- Maria R. Ballester
+date: '2019-08-01'
+publication: 'Remote Sensing Applications: Society and Environment'
+publication_types:
+- '2'
+abstract: Land use and land cover (LULC) are intrinsically tied to ecological and
+  social dynamics. Still, classifying LULC in ecotones, where landscapes are commonly
+  heterogeneous and have a wide range of physiognomies, remains a challenge. Here
+  we present a three-level hierarchical classification approach, using both Landsat
+  and MODIS images, and both pixels and objects as units of information. We applied
+  this multi-temporal and -spatial approach to classify land use in the Upper Xingu
+  River Basin (∼170,000 km2), located in the arc of deforestation of the Brazilian
+  Amazon. The first level includes five classes and differentiates managed land from
+  native vegetation with high overall accuracy (93%). The second level has 11 classes
+  (overall accuracy = 86%) and separates main land uses and native vegetation domains.
+  The third level has 16 classes (overall accuracy = 83%) and addresses productivity
+  of both managed and natural systems. We find that this new method presented here
+  is more efficient than existing regional and global land cover products. Applying
+  this approach to assess land cover transitions in the basin from 1985 to 2015, we
+  find that agricultural production increased, yet manifested itself differently in
+  the northern (Amazon biome) and southern (Cerrado biome) portions of the basin.
+  Analyzing land use change in different levels, we identify that agricultural intensification
+  occurred mainly in the Amazon while the Cerrado has undergone an expansion in agricultural
+  area. The method presented here can be adapted to other regions, improving efficiency
+  and accuracy of classifying land cover in heterogeneous landscapes.
+tags:
+- Land use change | Amazon | Cerrado | Ecotone | Physiognomies
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S2352938519300291
+doi: 10.1016/j.rsase.2019.05.002
+---
