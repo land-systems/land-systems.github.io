@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 
 Michelle Picoli is a Statistician with a MSc in Remote Sensing at Brazil’s National Institute for Space Research (INPE) and a PhD in Agricultural Engineering at the University of Campinas, Brazil.  Her research focuses on land use mapping and monitoring, statistical analysis of spatio-temporal data and big earth observation data to address challenges related to land use change and environmental impacts.

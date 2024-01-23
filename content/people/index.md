@@ -12,7 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Researchers
-          - Alumni
+          - Alumni (incl. Guests)
           - Guests
           - MIDLAND Collaborators
       sort_by: Params.last_name

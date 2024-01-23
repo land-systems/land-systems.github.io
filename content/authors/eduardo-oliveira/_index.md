@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 Eduardo has a background in geography, strategic management and strategic spatial planning. He holds a PhD in spatial sciences from The University of Groningen, The Netherlands (2016). Before joining the MIDLAND team, Eduardo was a postdoctoral researcher at the Land Change Science research unit of the Swiss Federal Institute for Forest, Snow and Landscape Research WSL in Switzerland. At WSL he did research on the territorial governance arrangements influencing processes of strategic spatial plan-making and plan-implementation at the urban regional level. He also did various systematic literature reviews of the digital transformation and landscape research and the topic of land degradation in strategic spatial planning.
 

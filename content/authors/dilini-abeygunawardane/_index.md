@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 Dilini has a background in ecology, natural resource management, and agricultural development policy. She holds a PhD in environmental management from The University of Queensland, Australia (2014). Before joining the MIDLAND team, Dilini did consultancy work for the CGIAR research centers IWMI and WorldFish undertaking projects in research monitoring and evaluation, institutional and policy analysis, and developing decision support systems.
 

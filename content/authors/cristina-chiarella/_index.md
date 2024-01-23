@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 Cristina’s research lies in the intersections of agricultural economics and geography. She holds a PhD in Geography and a MSc in Agricultural and Resource Economics from the University of California, Davis; and a BA in Economics from the Pontificia Universidad Católica del Perú. Her dissertation studied the consequences of climate change in the Dry Corridor of Honduras on crop losses by invasive species and migration. Cristina has previous research experience at the International Food Policy Research Institute (IFPRI), The World Bank and at California’s Cooperative Extension, in projects related to agricultural productivity and food security.
 

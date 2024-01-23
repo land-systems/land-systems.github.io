@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Guests
+  - Alumni (incl. Guests)
 ---
 PhD thesis on “Quantifying, mapping and assessing the impacts of land use on global biomass carbon stocks”, University of Natural Resources and Life Sciences (BOKU), Vienna (co-supervision with Profs. Karlheinz Erb and Simone Gingrich)

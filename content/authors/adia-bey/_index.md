@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 Adia Bey is a geospatial analyst with a background in forest monitoring, cultural heritage mapping and the use of GIS to support humanitarian relief work. After earning a BA in Anthropology at Columbia University and a MSc in Environmental Change and Management at Oxford University, Adia has worked on projects in over 20 countries in Africa, Asia and Latin America with indigenous communities, NGOs, national governments and UN agencies.
 

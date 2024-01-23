@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 PhD thesis on “Impacts of national-scale land use zoning policies on forest cover changes in Cameroon and Bhutan”, UCLouvain (co-supervision with E.F. Lambin).

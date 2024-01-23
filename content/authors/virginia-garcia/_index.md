@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 
 PhD thesis on “Understanding geographic trade stickiness to improve the sustainability of global commodity supply chains” (co-supervision with Prof. T. Kuemmerle, as part of the [COUPLED MSCA-ITN](http://coupled-itn.eu/) project).

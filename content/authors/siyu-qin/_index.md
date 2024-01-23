@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Guests
+  - Alumni (incl. Guests)
 ---
 PhD thesis on “Understanding Conservation Telecoupling”, Humboldt University in Berlin (co-supervision with Prof. T. Kuemmerle, as part of the [COUPLED MSCA-ITN project](http://coupled-itn.eu/)).

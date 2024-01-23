@@ -58,6 +58,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 Mathil worked as a cocoa supply chain researcher, on a project for Trase. Mathil focussed specifically on the cocoa supply chain of Côte d’Ivoire, using a miriad of publicly available data to reconstruct sourcing patterns of major cocoa traders and processors, and to link this to socio-ecological indicators.

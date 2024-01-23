@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 PhD thesis on “Land use displacement and forest conservation: The cases of Bhutan and Costa Rica”, UCLouvain (co-supervision with E.F. Lambin).

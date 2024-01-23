@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 
 Virginia Rodríguez García holds a B.Sc. in Environmental Sciences from the University of Salamanca (Spain) and a M.Sc. in Agriculture and Bio-industries from the Université catholique de Louvain (Belgium) and a M.Sc. in Agricultural and Food Economics from the University of Bonn (Germany). During her MA thesis, she analyzed the impact of coffee certification on the Bonga forest in Ethiopia where she did a fieldwork.

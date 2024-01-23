@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Alumni (incl. Guests)
 ---
 Postdoctoral researcher on the the [SUSTAIN-COCOA](https://epl.ethz.ch/research/SUSTAIN-COCOA.html) project and with the [Trase initiative](https://www.trase.earth/).
