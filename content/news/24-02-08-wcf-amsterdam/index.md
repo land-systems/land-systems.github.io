@@ -7,5 +7,5 @@ image:
 
 <!--more-->
 
-The "cocoa team", Valentin and Cécile, participated to the World Cocoa Foundation 2024 conference in Amsterdam this week!
+Valentin and Cécile, aka the "cocoa team", participated to the World Cocoa Foundation 2024 conference in Amsterdam this week!
 They engaged with many actors and shared our work done in collaboration and as contribution to the Trase initiative and the SUSTAIN-COCOA project. 
