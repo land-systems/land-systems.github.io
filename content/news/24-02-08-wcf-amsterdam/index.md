@@ -1,6 +1,6 @@
 ---
 title: The cocoa team at World Cocoa Foundation 2024 conference
-date: 2024-01-06
+date: 2024-02-08
 image:
   focal_point: 'top'
 ---
