@@ -1,5 +1,5 @@
 ---
-title: The cocoa team at World Cocoa Foundation 2024 conference
+title: The cocoa team at International Cocoa Organization (ICCO) 2024 conference
 date: 2024-02-08
 image:
   focal_point: 'top'
