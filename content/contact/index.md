@@ -21,10 +21,9 @@ sections:
       coordinates:
         latitude: '50.66939749605494'
         longitude: '4.61977578554916'
-      directions: Enter the building and take the stairs to the fourth floor, room L4.03.08
+      directions: Enter the building and take the stairs to the fourth floor
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        -
       autolink: true
     design:
       columns: '1'
