@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Guests
+  - Alumni (incl. Guests)
 ---
 PhD thesis on “Environmental impact assessments in a telecoupled world”, VU Amsterdam, (co-supervision with Prof. P. H. Verburg, as part of the [COUPLED MSCA-ITN project](http://coupled-itn.eu/)).
