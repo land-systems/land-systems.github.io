@@ -1,5 +1,5 @@
 ---
-title: CLaudia Parra Paitan's PhD defense!
+title: Claudia Parra Paitan's PhD defense!
 date: 2024-02-13
 image:
   focal_point: 'top'
