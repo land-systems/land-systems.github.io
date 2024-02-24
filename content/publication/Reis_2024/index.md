@@ -1,5 +1,5 @@
 ---
-title: Not all supply chains are created equal: The linkages between soy local trade relations and development outcomes in Brazil
+title: 'Not all supply chains are created equal: The linkages between soy local trade relations and development outcomes in Brazil'
 authors:
 - tiago-reis
 - Mairon Bastos Lima
