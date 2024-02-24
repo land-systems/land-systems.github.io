@@ -5,7 +5,7 @@ authors:
 - Mairon Bastos Lima
 - Gabriela Russo Lopes
 - patrick-meyfroidt
-date: '2024-03-01'
+date: '2024-01-01'
 publication: World Development
 publication_types:
 - '2'
