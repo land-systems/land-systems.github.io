@@ -7,7 +7,7 @@ image:
 
 <!--more-->
 
-In a [new study](https://doi.org/10.1111/conl.13016) led by [Erasmus] (https://landsystems-lab.earth/author/erasmus-zu-ermgassen/), we argue that initiatives which seek to monitor and address commodity-driven deforestation must not fall in the trap of focusing only on plot or farm-level traceability and monitoring, but must measure progress and define success at multiple scales in order to address deforestation.
+In a [new study](https://doi.org/10.1111/conl.13016) led by [Erasmus] (https://landsystems-lab.earth/author/erasmus-zu-ermgassen/), we argue that initiatives which seek to monitor and address commodity-driven deforestation must avoid the trap of focusing only on plot or farm-level traceability and monitoring, and must measure progress and define success at multiple scales in order to address deforestation.
 https://doi.org/10.1111/conl.13016
 
 See also the corresponding Commentary in Mongabay written by Erasmus: 
