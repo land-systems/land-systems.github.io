@@ -18,6 +18,7 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors: 
   - cecile-renier
+  - valentin-guye
   - erasmus-zuermgassen
   - patrick-meyfroidt
 tags: []
