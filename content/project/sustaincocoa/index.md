@@ -68,6 +68,8 @@ The [insight](https://trase.earth/insights/cocoa-traders-fall-short-on-supplier-
 
 Our main partners in this project are:
 
+Prof. [Goedele Van den Broeck](https://sites.google.com/view/goedelevandenbroeck) at UCLouvain, working on socio-economic aspects of cocoa in West Africa including child labor. 
+
 [Trase](https://trase.earth/) with whom we develop cocoa supply chain datasets and transparency. 
 
 ETH Zurich with Jan Dirk Wegner and Alexander Becker, whose team produced a [cocoa map](https://www.nature.com/articles/s43016-023-00751-8) for Cote d'Ivoire and Ghana for 2019-2021 (see [here](https://nk.users.earthengine.app/view/cocoa-map)) and are currently working on [shade and carbon maps](https://prs.igp.ethz.ch/research/current_projects/shade-tree-cover.html) for cocoa. 
