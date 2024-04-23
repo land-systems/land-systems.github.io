@@ -56,7 +56,7 @@ Our cross-​scale, interdisciplinary, and transnational approach will provide i
 ---
 Our main outputs in this project so far are: 
 
-The study by [Renier et al. 2023](https://dx.doi.org/10.1088/1748-9326/acad8e), about transparency, traceability and deforestation in Cote d'Ivoire, with an [insight](https://trase.earth/insights/cocoa-exports-drive-deforestation-in-cote-d-ivoire) which summarizes the main findings. 
+The study by [Renier et al. 2023](https://dx.doi.org/10.1088/1748-9326/acad8e) about transparency, traceability and deforestation in Cote d'Ivoire, with an [insight](https://trase.earth/insights/cocoa-exports-drive-deforestation-in-cote-d-ivoire) summarizing the main findings. 
 
 The [traceability data](https://trase.earth/explore/supply-chain/cote-d-ivoire/cocoa?chartType=sankey&year=2019&indicator=commodity_deforestation_total_exposure&dimension=region_production_1&dimension=exporter_group&dimension=country_of_destination) published on the Trase platform for Cote d'Ivoire (with volumes and embedded deforestation exposure per department, per trader, per importing country).
 
@@ -72,10 +72,10 @@ Prof. [Goedele Van den Broeck](https://sites.google.com/view/goedelevandenbroeck
 
 [Trase](https://trase.earth/) with whom we develop cocoa supply chain datasets and transparency. 
 
-ETH Zurich with Jan Dirk Wegner and Alexander Becker, whose team produced a [cocoa map](https://www.nature.com/articles/s43016-023-00751-8) for Cote d'Ivoire and Ghana for 2019-2021 (see [here](https://nk.users.earthengine.app/view/cocoa-map)) and are currently working on [shade and carbon maps](https://prs.igp.ethz.ch/research/current_projects/shade-tree-cover.html) for cocoa. 
+Cambridge University with Prof. Rachael Garrett, who coordinates the SUSTAIN-COCOA project, and her team, working on [zero deforestation policies](https://www.zerodeforestationimpacts.com/our-work-in-west-africa/) in cocoa and other contexts.
+
+ETH Zurich with Jan Dirk Wegner and Alexander Becker, whose team produced a [cocoa map](https://www.nature.com/articles/s43016-023-00751-8) for Cote d'Ivoire and Ghana for 2019-2021 (see [here](https://nk.users.earthengine.app/view/cocoa-map)) and who are currently working on [shade and carbon maps](https://prs.igp.ethz.ch/research/current_projects/shade-tree-cover.html) for cocoa. 
 
 The University of Queensland with Dr. Wilma Hart working among others on shade tree mapping in cocoa plantations and [tradeoffs and synergies between shade and yields](https://www.sciencedirect.com/science/article/abs/pii/S0167880921003807).  
-
-Cambridge University with Prof. Rachael Garrett and her team, working on [zero deforestation policies](https://www.zerodeforestationimpacts.com/our-work-in-west-africa/) in cocoa and other contexts.
 
 CIAT with Dr. Christian Bunn working among others on [impacts of climate change on cocoa](https://adaptation.aclimatar.org/).
