@@ -59,4 +59,4 @@ highlight_name: false
 user_groups:
   - Alumni (incl. Guests)
 ---
-Vivian Kerubo Ondieki is a geospatial analyst who worked on the SPIA project on LULCC Impact of the Sorghum and Millet Upscaling Project in Mali in 2021.
+Vivian Kerubo Ondieki is a geospatial analyst who worked on the SPIA project on LULCC Impact of the Sorghum and Millet Upscaling in Mali in 2021.
