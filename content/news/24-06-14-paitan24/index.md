@@ -7,7 +7,7 @@ image:
 
 <!--more-->
 
-[Claudia](https://landsystems-lab.earth/author/claudia-parra-paitan/) led this study, with also [Erasmus](https://landsystems-lab.earth/author/erasmus-zuermgassen/)  and [Patrick](https://landsystems-lab.earth/author/patrick-meyfroidt/), published [here](https://doi.org/10.1016/j.envsci.2024.103796).
+[Claudia](https://landsystems-lab.earth/author/claudia-parra-paitan/) led this study, with also [Erasmus](https://landsystems-lab.earth/author/erasmus-zu-ermgassen/)  and [Patrick](https://landsystems-lab.earth/author/patrick-meyfroidt/), published [here](https://doi.org/10.1016/j.envsci.2024.103796).
 Author link for sharing: https://authors.elsevier.com/sd/article/S1462-9011(24)00130-8 
 
 Climate risk will be substantially increased in Cote d'Ivoire and Ghana, the two most important suppliers of cocoa, which may lead to supply failures and severe socio-economic impacts if left unaddressed. Large transnational traders depending heavily on West African supplies, as well as the regionally based exporting farmer cooperatives and domestic firms, will be affected by the increased climate risk in that region. Traders operating mainly in Latin America and Southeast Asia might only face a more modest increase in climate risk.
