@@ -11,9 +11,11 @@ sections:
         Land Systems for Sustainability Lab
       image:
         filename: sussendenga.jpg
+      image:
+        filename: chiarella2021.jpg
       text: |
         <br> Our research focuses on how land use and more broadly land systems can contribute to sustainability.  <br>
-        We study land use transitions, i.e. non-linear land use dynamics at broad scale such as forest transitions and emergence of land use frontiers; linkages between globalization and land use including how supply chain transparency and interventions can halt deforestation; theories of land system change; and social-ecological feedbacks.  <br> (Photo: Landscape from Central Mozambique, 2023) 
+        We study land use transitions, i.e. non-linear land use dynamics at broad scale such as forest transitions and emergence of land use frontiers; linkages between globalization and land use including how supply chain transparency and interventions can halt deforestation; theories of land system change; and social-ecological feedbacks.  <br> (Photos: Landscape from Central Mozambique (2023, P. Meyfroidt), people from rural communities in Northern Mozambique (2021, C. Chiarella)) 
   - block: collection
     content:
       title: Latest News
