@@ -28,7 +28,7 @@ authors:
 - Chintala Sudhakar Reddy
 - Natasha Ribeiro
 - Achim Roder
-- Alfredo Romero-Muñoz
+- Alfredo Romero-Munoz
 - Partha Sarathi Roy
 - philippe-rufin
 - Mariana Rufino
