@@ -54,6 +54,13 @@ Some commentaries on [Meyfroidt et al. 2010, PNAS](http://dx.doi.org/10.1073/pna
 [http://news.mongabay.com/2010/1124-hance_leakage.html](http://news.mongabay.com/2010/1124-hance_leakage.html)  
 
 
+## 2009
 
+Some commentaries on [Meyfroidt and Lambin 2009, PNAS](http://dx.doi.org/10.1073/pnas.0904942106): <br> 
+[http://www.scientificamerican.com/blog/60-second-science/post.cfm?id=a-tree-grows-in-vietnam-and-another-2009-08-31](http://www.scientificamerican.com/blog/60-second-science/post.cfm?id=a-tree-grows-in-vietnam-and-another-2009-08-31)  
+[http://news.mongabay.com/2009/0902-vietnam.html](http://news.mongabay.com/2009/0902-vietnam.html)  
+[http://journalwatch.conservationmagazine.org/2009/08/31/not-in-my-forest/](http://journalwatch.conservationmagazine.org/2009/08/31/not-in-my-forest/)  
+[http://environmentalresearchweb.org/cws/article/futures/40316](http://environmentalresearchweb.org/cws/article/futures/40316)  
+[http://www.redd-monitor.org/2009/09/28/how-vietnam-exports-deforestation-interview-with-patrick-meyfroidt/](http://www.redd-monitor.org/2009/09/28/how-vietnam-exports-deforestation-interview-with-patrick-meyfroidt/)  
 
 
