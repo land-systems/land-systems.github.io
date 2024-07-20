@@ -4,7 +4,7 @@ authors:
 - erasmus-zuermgassen
 - cecile-renier
 - andrea-garcia
-- Tomás Carvalho
+- Tomas Carvalho
 - patrick-meyfroidt
 date: '2024-04-12'
 publication: Conservation Letters
