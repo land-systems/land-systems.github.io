@@ -11,11 +11,7 @@ banner:
   image: ''
 ---
 
-sections:
-  - block: hero
-    content:
-      title: |
-        2023
-      text: |
-        Some media coverage on our work on Ivorian cocoa supply chains and deforestation, Renier et al. (2023) Environmental Research Letters
+<br> 2024 
+<br> 2023
+<br> Some media coverage on our work on Ivorian cocoa supply chains and deforestation, Renier et al. (2023) Environmental Research Letters
 
