@@ -14,7 +14,7 @@ authors:
 - eduardo-oliveira
 - michelle-picoli
 - siyu-qin
-- virginia-rodriguez-garcia
+- virginia-garcia
 - philippe-rufin
 date: '2024-07-17'
 publication: Royal Society Open Science
