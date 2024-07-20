@@ -1,5 +1,5 @@
 ---
-title: Addressing indirect sourcing in zero deforestation commodity supply chains
+title: Crop booms as regime shifts
 authors:
 - Victoria Junquera
 - Maja Schlueter

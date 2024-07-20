@@ -2,7 +2,7 @@
 title: Large gaps in voluntary sustainability commitments covering the global cocoa
   trade
 authors:
-- Claudia Parra-Paitan
+- claudia-parra-paitan
 - erasmus-zuermgassen
 - patrick-meyfroidt
 - Peter Verburg
