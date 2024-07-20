@@ -18,10 +18,10 @@ main:
     weight: 40
   - name: Outreach
     url: outreach
-    weight: 40
+    weight: 50
   - name: Blog
     url: blog
-    weight: 50
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
