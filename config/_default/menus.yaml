@@ -16,6 +16,9 @@ main:
   - name: Projects
     url: project
     weight: 40
+  - name: Outreach
+    url: outreach
+    weight: 40
   - name: Blog
     url: blog
     weight: 50
