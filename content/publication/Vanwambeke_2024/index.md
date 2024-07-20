@@ -1,12 +1,12 @@
 ---
 title: 'Land system governance shapes tick-related public and animal health risks'
 authors:
-- S.O. Vanwambeke
+- Sophie O. Vanwambeke
 - Eric F. Lambin
 - patrick-meyfroidt
-- F. A. Asaaga
+- F.A. Asaaga
 - C. Millins
-- B. V. Purse
+- B.V. Purse
 date: '2024-04-09'
 publication: Journal of Land Use Science
 publication_types:
