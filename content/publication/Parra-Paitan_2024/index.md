@@ -1,7 +1,7 @@
 ---
 title: Deforestation and climate risk hotspots in the global cocoa value chain
 authors:
-- claudia-parra-paitan
+- claudia-paitan
 - patrick-meyfroidt
 - Peter H. Verburg
 - erasmus-zuermgassen
