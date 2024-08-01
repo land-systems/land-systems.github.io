@@ -19,3 +19,9 @@ First, frontiers do not emerge in a vacuum. Land-use frontiers almost always unf
 Second, frontier theories show that instead of assuming that intensification will spontaneously occur and reduce pressure on land, controlling land-use expansion should go ahead or at least hand in hand with interventions to support intensification.
 
 Third, endogenous dynamics including legacies of past waves, actors' anticipations, mechanisms for differential rent creation and capture, and the progressive built-up of agglomeration economies, matter and may even be the main drivers of frontier dynamics.
+
+Fourth, emerging frontiers appear as a pivotal time, when the fate of land use and human-environment systems can still be steered through pre-emptive governance interventions.
+
+Fifth, predicting frontier emergence is shaky, but we can hopefully identify places that have certain characteristics that make them prone to see frontiers emerge within.
+
+We focus on agriculture and deforestation frontiers in the tropics, but our work can be inspirational for other frontier processes including for extractive resources, such as minerals, or conservation and restoration frontiers.
