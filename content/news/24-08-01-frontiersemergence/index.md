@@ -7,7 +7,7 @@ image:
 
 <!--more-->
 
-The paper is available here: https://doi.org/10.1098/rsos.240295 
+The paper is [available here](https://doi.org/10.1098/rsos.240295) 
 
 This is a joint effort from the MIDLAND team with colleagues at [Humboldt University in Berlin](https://pages.cms.hu-berlin.de/biogeo/website/) and elsewhere. 
 In it, we first synthesize concepts and theories explaining land-use frontiers.
