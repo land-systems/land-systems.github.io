@@ -1,6 +1,6 @@
 ---
 title: New study on impacts of large-scale forestry investments on neighboring small-scale agriculture in northern Mozambique
-date: 2024-08-02
+date: 2024-08-01
 image:
   focal_point: 'top'
 ---
@@ -9,7 +9,7 @@ image:
 
 (Photo: C. Chiarella, 2021)
 
-It is great to be able to share our just published study on the [impacts of large-scale forestry investments on neighboring small-scale agriculture in northern Mozambique](https://doi.org/10.1016/j.landusepol.2024.107251), under [Cristina](https://landsystems-lab.earth/author/christina-chiarella)'s leadership.
+It is great to be able to share our just published study on the [impacts of large-scale forestry investments on neighboring small-scale agriculture in northern Mozambique](https://doi.org/10.1016/j.landusepol.2024.107251), under [Cristina](https://landsystems-lab.earth/author/cristina-chiarella)'s leadership.
 
 ([Author's free access version here](https://authors.elsevier.com/sd/article/S0264-8377(24)00204-7))  
 
