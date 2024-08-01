@@ -14,14 +14,14 @@ We then propose a middle-range theory of how frontiers emerge, which identifies 
 
 We then discuss five implications for the governance of frontiers for sustainability:
 
-* Frontiers do not emerge in a vacuum. Land-use frontiers almost always unfold on land that is already claimed, occupied, used, managed or transformed by people, or already provide benefits.
+First, frontiers do not emerge in a vacuum. Land-use frontiers almost always unfold on land that is already claimed, occupied, used, managed or transformed by people, or already provide benefits.
 
-* Frontier theories show that instead of assuming that intensification will spontaneously occur and reduce pressure on land, controlling land-use expansion should go ahead or at least hand in hand with interventions to support intensification.
+Second, frontier theories show that instead of assuming that intensification will spontaneously occur and reduce pressure on land, controlling land-use expansion should go ahead or at least hand in hand with interventions to support intensification.
 
-* Endogenous dynamics including legacies of past waves, actors' anticipations, mechanisms for differential rent creation and capture and the progressive built-up of agglomeration economies, matter and may even be the main drivers of frontier dynamics.
+Third, endogenous dynamics including legacies of past waves, actors' anticipations, mechanisms for differential rent creation and capture and the progressive built-up of agglomeration economies, matter and may even be the main drivers of frontier dynamics.
 
-* Emerging frontiers appear as a pivotal time, when the fate of land use and human-environment systems can still be steered through pre-emptive governance interventions.
+Fourth, emerging frontiers appear as a pivotal time, when the fate of land use and human-environment systems can still be steered through pre-emptive governance interventions.
 
-* Predicting frontier emergence is shaky, but we can hopefully identify places that have certain characteristics that make them prone to see frontiers emerge within.
+Fifth, predicting frontier emergence is shaky, but we can hopefully identify places that have certain characteristics that make them prone to see frontiers emerge within.
 
 
