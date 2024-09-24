@@ -61,11 +61,11 @@ Interview in Imagine demain le monde 121, May-June 2017, [http://archives.imagin
 
 Interview in FNRSNews, 105, June 2016, "Alimentaire, mon cher Watson!"
 
-Interview in Défis Sud, 112, April-May 2013, [http://www.sosfaim.be/pdf/publications/defis_sud/112/defis_sud_champ_foret_intro.pdf]("Conservation des forêts ou développement agricole").
+Interview in Défis Sud, 112, April-May 2013, [http://www.sosfaim.be/pdf/publications/defis_sud/112/defis_sud_champ_foret_intro.pdf](Conservation des forêts ou développement agricole).
 
 Possoz L, Meyfroidt P (2012) [http://www.lalibre.be/economie/entreprise-emploi/article/742822/sortir-de-la-crise-par-la-relance.html](Sortir de la crise par la relance?) La Libre Belgique, 9 June 2012.
 
-[http://www.imagine-magazine.com/lire/spip.php?article1327](Comment reboiser le monde?)  Interview in Imagine demain le monde 85, May-June 2011.
+[http://www.imagine-magazine.com/lire/spip.php?article1327](Comment reboiser le monde?) Interview in Imagine demain le monde 85, May-June 2011.
 
 
 ## 2010
