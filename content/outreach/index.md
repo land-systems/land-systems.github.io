@@ -57,15 +57,15 @@ Some media coverage of our work on [constraints and tradeoffs on recultivation o
 [https://www.bloomberg.com/view/articles/2017-09-04/russia-is-an-emerging-superpower-in-global-food-supply](https://www.bloomberg.com/view/articles/2017-09-04/russia-is-an-emerging-superpower-in-global-food-supply)  
 
 
-Interview in Imagine demain le monde 121, May-June 2017, [http://archives.imagine-magazine.com/lire/spip.php?rubrique245]("Securiser l’accès à la terre").
+Interview in Imagine demain le monde 121, May-June 2017, ["Securiser l’accès à la terre"](http://archives.imagine-magazine.com/lire/spip.php?rubrique245).
 
 Interview in FNRSNews, 105, June 2016, "Alimentaire, mon cher Watson!"
 
-Interview in Défis Sud, 112, April-May 2013, [http://www.sosfaim.be/pdf/publications/defis_sud/112/defis_sud_champ_foret_intro.pdf](Conservation des forêts ou développement agricole).
+Interview in Défis Sud, 112, April-May 2013, [Conservation des forêts ou développement agricole](http://www.sosfaim.be/pdf/publications/defis_sud/112/defis_sud_champ_foret_intro.pdf).
 
-Possoz L, Meyfroidt P (2012) [http://www.lalibre.be/economie/entreprise-emploi/article/742822/sortir-de-la-crise-par-la-relance.html](Sortir de la crise par la relance?) La Libre Belgique, 9 June 2012.
+Possoz L, Meyfroidt P (2012) [Sortir de la crise par la relance?](http://www.lalibre.be/economie/entreprise-emploi/article/742822/sortir-de-la-crise-par-la-relance.html) La Libre Belgique, 9 June 2012.
 
-[http://www.imagine-magazine.com/lire/spip.php?article1327](Comment reboiser le monde?) Interview in Imagine demain le monde 85, May-June 2011.
+[Comment reboiser le monde?](http://www.imagine-magazine.com/lire/spip.php?article1327) Interview in Imagine demain le monde 85, May-June 2011.
 
 
 ## 2010
