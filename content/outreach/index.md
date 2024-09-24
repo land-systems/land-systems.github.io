@@ -16,7 +16,13 @@ Illustrative compilation of media coverage of our works.
 
 ## 2024 
 
+Interview for RTBF on cocoa prices spike:
+[https://www.rtbf.be/article/pourquoi-le-prix-du-cacao-s-envole-t-il-c-est-aussi-la-faute-a-la-speculation-11350766](https://www.rtbf.be/article/pourquoi-le-prix-du-cacao-s-envole-t-il-c-est-aussi-la-faute-a-la-speculation-11350766) 
+
 ## 2023
+
+Participation to RTBF debate on "La face cachée du chocolat", 4 October 2023:
+[https://auvio.rtbf.be/media/declic-l-emission-en-tv-declic-3095566](https://auvio.rtbf.be/media/declic-l-emission-en-tv-declic-3095566)   
 
 Some media coverage on our work on Ivorian cocoa supply chains and deforestation, [Renier et al. (2023) Environmental Research Letters](https://dx.doi.org/10.1088/1748-9326/acad8e): <br> 
 [https://www.bostonglobe.com/2023/02/13/science/climate-change-is-threatening-valentines-day-we-know-it/](https://www.bostonglobe.com/2023/02/13/science/climate-change-is-threatening-valentines-day-we-know-it/)   
