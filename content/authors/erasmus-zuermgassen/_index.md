@@ -14,7 +14,7 @@ last_name:  _zu Ermgassen
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: Professor of Human Geography
 
 # Organizations/Affiliations
 organizations:
