@@ -45,6 +45,12 @@ Website with broad audience Report for policy and practice:
 [http://10facts.glp.earth/](http://10facts.glp.earth/)    
 
 
+## 2019
+
+Participation to MAG INTER magazine on forest fires in Brazilian Amazon, LN24 channel, September.
+[http://www.lalibre.be/actu/sciences-sante/l-annee-des-savanturiers-5772c30e35708dcfedb977aa](http://www.lalibre.be/actu/sciences-sante/l-annee-des-savanturiers-5772c30e35708dcfedb977aa)
+
+
 ## 2017
 
 Some media coverage of our work on [constraints and tradeoffs on recultivation of abandoned cropland in Former Soviet Union](http://dx.doi.org/10.1016/j.gloenvcha.2016.01.003): <br> 
