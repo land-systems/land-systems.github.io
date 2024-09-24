@@ -8,7 +8,7 @@ authors:
 
 # Full Name (for SEO)
 first_name: Erasmus
-last_name:  zu Ermgassen
+last_name:  _zu Ermgassen
 
 # Is this the primary user of the site?
 superuser: false
