@@ -57,7 +57,7 @@ Some media coverage of our work on [constraints and tradeoffs on recultivation o
 [https://www.bloomberg.com/view/articles/2017-09-04/russia-is-an-emerging-superpower-in-global-food-supply](https://www.bloomberg.com/view/articles/2017-09-04/russia-is-an-emerging-superpower-in-global-food-supply)  
 
 
-Interview in Imagine demain le monde 121, May-June 2017, ["Securiser l’accès à la terre"](http://archives.imagine-magazine.com/lire/spip.php?rubrique245).
+Interview in Imagine demain le monde 121, May-June 2017, ["Securiser l'accès à la terre"](http://archives.imagine-magazine.com/lire/spip.php?rubrique245).
 
 Interview in FNRSNews, 105, June 2016, "Alimentaire, mon cher Watson!"
 
