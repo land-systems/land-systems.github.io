@@ -1,13 +1,13 @@
 ---
 title: Can we estimate farm size from field size\? An empirical investigation of the field size to farm size relationship
 authors:
-- Clemens Jänicke
+- Clemens Jaenicke
 - Maximilian Wesemeyer
 - cristina-chiarella
 - Tobia Lakes
 - Christian Levers
 - patrick-meyfroidt
-- Daniel Müller
+- Daniel Mueller
 - marie-pratzer
 - philippe-rufin
 date: '2024-08-22'
