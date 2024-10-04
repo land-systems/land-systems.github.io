@@ -1,5 +1,5 @@
 ---
-title: Taking It Further - Leveraging Pseudo-Labels for Field Delineation across Label-Scarce Smallholder Regions
+title: Taking It Further. Leveraging Pseudo-Labels for Field Delineation across Label-Scarce Smallholder Regions
 authors:
 - philippe-rufin
 - Sherrie Wang
@@ -12,8 +12,9 @@ publication: International Journal of Applied Earth Observation and Geoinformati
 publication_types:
 - '2'
 abstract: ''
-tags: '' 
-links: 
+tags: 
+- ''
+links:
 - name: URL
   url: https://doi.org/10.1016/j.jag.2024.104149
 doi: 10.1016/j.jag.2024.104149
