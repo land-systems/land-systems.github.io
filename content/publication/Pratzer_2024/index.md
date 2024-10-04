@@ -1,5 +1,5 @@
 ---
-title: Addressing indirect sourcing in zero deforestation commodity supply chains
+title: An actor-centered, scalable land system typology for addressing biodiversity loss in the world’s tropical dry woodlands
 authors:
 - marie-pratzer
 - patrick-meyfroidt
