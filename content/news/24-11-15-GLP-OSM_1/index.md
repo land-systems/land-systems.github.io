@@ -1,11 +1,11 @@
 ---
-title: Global Land Programme Open Science Meeting - Part 1.
+title: Global Land Programme Open Science Meeting - Part 1
 date: 2024-11-15
 image:
   focal_point: 'top'
 ---
 
-Several team members (Andrea, Erasmus, Philippe, Patrick, and Ana from Eric Lambin's neighboring lab) participated to the 2024 conference of the Global Land Programme. Some news and highlgihts here!
+Several team members (Andrea, Erasmus, Philippe, Patrick, and Ana from Eric Lambin's neighboring lab) participated to the 2024 conference of the Global Land Programme. Some news and highlights here!
 
 <!--more-->
 

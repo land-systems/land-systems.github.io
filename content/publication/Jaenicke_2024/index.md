@@ -1,5 +1,5 @@
 ---
-title: Can we estimate farm size from field size\? An empirical investigation of the field size to farm size relationship
+title: Can we estimate farm size from field size? An empirical investigation of the field size to farm size relationship
 authors:
 - Clemens Jaenicke
 - Maximilian Wesemeyer
