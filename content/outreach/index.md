@@ -50,7 +50,7 @@ Media coverage on our work with Trase mapping supply chains of agricultural comm
 
 ## 2020
 
-Some selected news articles about our work mapping the origin of Brazilian beef exports, led by [Erasmus](https://landsystems-lab.earth/author/erasmus-zu-ermgassen):
+Some selected news articles about our work mapping the origin of Brazilian beef exports, led by [Erasmus](https://landsystems-lab.earth/author/erasmus-zu-ermgassen) :
 
 [https://www.bloomberg.com/news/features/2020-12-17/saving-the-amazon-starts-with-cleaning-up-the-beef-industry](https://www.bloomberg.com/news/features/2020-12-17/saving-the-amazon-starts-with-cleaning-up-the-beef-industry)
 
