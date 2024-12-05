@@ -50,7 +50,21 @@ Media coverage on our work with Trase mapping supply chains of agricultural comm
 
 ## 2020
 
-Some selected news articles about our work mapping the origin of Brazilian beef exports, led by [Erasmus](https://landsystems-lab.earth/author/erasmus-zuermgassen)
+Some selected news articles about our work mapping the origin of Brazilian beef exports, led by Erasmus
+
+[https://www.bloomberg.com/news/features/2020-12-17/saving-the-amazon-starts-with-cleaning-up-the-beef-industry](https://www.bloomberg.com/news/features/2020-12-17/saving-the-amazon-starts-with-cleaning-up-the-beef-industry)
+
+[https://reporterbrasil.org.br/2020/10/how-morgan-stanley-is-linked-to-deforestation-in-the-amazon/](https://reporterbrasil.org.br/2020/10/how-morgan-stanley-is-linked-to-deforestation-in-the-amazon/)
+
+[https://plus.lesoir.be/341162/article/2020-12-01/les-importations-de-viande-bresilienne-alimentent-la-deforestation](https://plus.lesoir.be/341162/article/2020-12-01/les-importations-de-viande-bresilienne-alimentent-la-deforestation) (in French)
+
+[https://www.lalibre.be/planete/environnement/le-buf-bresilien-de-l-amazonie-a-notre-assiette-5fc7efb49978e255b0c417cd](https://www.lalibre.be/planete/environnement/le-buf-bresilien-de-l-amazonie-a-notre-assiette-5fc7efb49978e255b0c417cd) (in French)
+
+[https://www.rtl.be/info/magazine/animaux/des-chercheurs-de-l-uclouvain-retracent-la-provenance-du-boeuf-bresilien-1262701.aspx](https://www.rtl.be/info/magazine/animaux/des-chercheurs-de-l-uclouvain-retracent-la-provenance-du-boeuf-bresilien-1262701.aspx) (in French)
+
+[https://www.earthsight.org.uk/news/idm/mod-uk-navy-brazil-beef-supplier-linked-deforestation-amazon-cattle](https://www.earthsight.org.uk/news/idm/mod-uk-navy-brazil-beef-supplier-linked-deforestation-amazon-cattle)
+
+[https://news.mongabay.com/2020/02/brazilian-meat-giant-jbs-expands-its-reach-in-china/](https://news.mongabay.com/2020/02/brazilian-meat-giant-jbs-expands-its-reach-in-china/)
 
 
 ## 2019
