@@ -50,7 +50,7 @@ Media coverage on our work with Trase mapping supply chains of agricultural comm
 
 ## 2020
 
-Some selected news articles about our work mapping the origin of Brazilian beef exports, led by [Erasmus](https://landsystems-lab.earth/author/erasmus-zu-ermgassen):
+Some selected news articles about our work mapping the origin of Brazilian beef exports, led by [Erasmus](https://landsystems-lab.earth/author/erasmus-zuermgassen):
 
 [https://www.bloomberg.com/news/features/2020-12-17/saving-the-amazon-starts-with-cleaning-up-the-beef-industry](https://www.bloomberg.com/news/features/2020-12-17/saving-the-amazon-starts-with-cleaning-up-the-beef-industry)
 
@@ -109,3 +109,6 @@ Some commentaries on [Meyfroidt and Lambin 2009, PNAS](http://dx.doi.org/10.1073
 [http://www.redd-monitor.org/2009/09/28/how-vietnam-exports-deforestation-interview-with-patrick-meyfroidt/](http://www.redd-monitor.org/2009/09/28/how-vietnam-exports-deforestation-interview-with-patrick-meyfroidt/)  
 
 
+
+
+[def]: https://landsystems-lab.earth/author/erasmus-zu-ermgassen
