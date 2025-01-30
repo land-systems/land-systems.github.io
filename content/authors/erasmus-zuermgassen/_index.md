@@ -16,6 +16,16 @@ superuser: false
 # Role/position
 role: Professor of Human Geography
 
+# Organizations/Affiliations
+organizations:
+  - name: UCLouvain
+    url: ''
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:erasmus.zuermgassen@uclouvain.be'
+
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
