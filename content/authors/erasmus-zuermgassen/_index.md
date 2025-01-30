@@ -70,8 +70,10 @@ user_groups:
   - Researchers
 ---
 
-Erasmus is a scientist at UCLouvain working with Trase to improve the transparency and sustainability of supply chains for products such as beef, soy, and cocoa.
+Erasmus is Assistant Professor in Geography at the Earth & Life Institute, UCLouvain. He holds degrees in Veterinary Science (VetMB, 2013), Food Security (MRes, 2014) and a PhD (2018) on sustainable livestock from the University of Cambridge, UK.
 
-A qualified veterinarian and big data scientist, Erasmus studies the global food system by combining data and insights from agriculture, supply chains, economics, life cycle assessment (LCA), and spatial analysis. Erasmus has a PhD on sustainable livestock from the University of Cambridge, UK. Erasmus co-founded and leads the [do Pasto ao Prato initiative](https://www.dopastoaoprato.com.br/).
+Erasmus' research blends methods from land system science, geography, industrial ecology, economics, and citizen science to map the supply chains which connect agricultural producers with urban consumers around the world. He is a senior researcher in the Trase initiative and co-founder of 'do Pasto ao Prato', a citizen science project and consumer-facing app which reveals the origin and impact of beef products sold in supermarkets across Brazil. His research is funded by [NICFI](https://www.nicfi.no/), [CIFF](https://ciff.org/), and the [ERC](https://erc.europa.eu/homepage).
 
-For more details, please see [https://erasmuszu.weebly.com/](https://erasmuszu.weebly.com/)
+Erasmus teaches courses on [Statistics in Geography](https://uclouvain.be/en-cours-2024-lgeo1341) and [Sustainable Urban Spaces](https://uclouvain.be/cours-2023-LGEO2210). 
+
+For more details, please see [https://erasmuszu.weebly.com/](https://erasmuszu.weebly.com/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=U3AB8vsAAAAJ)
