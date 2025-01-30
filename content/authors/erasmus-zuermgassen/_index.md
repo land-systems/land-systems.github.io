@@ -8,7 +8,7 @@ authors:
 
 # Full Name (for SEO)
 first_name: Erasmus
-last_name:  _zu Ermgassen
+last_name: _zu Ermgassen
 
 # Is this the primary user of the site?
 superuser: false
@@ -68,6 +68,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+
 ---
 
 Erasmus is Assistant Professor in Geography at the Earth & Life Institute, UCLouvain. He holds degrees in Veterinary Science (VetMB, 2013), Food Security (MRes, 2014) and a PhD (2018) on sustainable livestock from the University of Cambridge, UK.
