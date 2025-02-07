@@ -9,8 +9,8 @@ Our cross-​scale, interdisciplinary, and transnational approach will provide i
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-01-01T13:00:00Z'
-date_end: '2024-01-01T15:00:00Z'
+date: '2025-02-07T13:00:00Z'
+date_end: '2030-01-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
