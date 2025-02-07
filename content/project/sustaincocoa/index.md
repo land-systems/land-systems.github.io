@@ -100,8 +100,11 @@ Guye, V. (2024) Côte d'Ivoire cocoa exports and deforestation. [https://doi.org
 
 ### Our main partners in this project are:
 
-Prof. [Goedele Van den Broeck](https://sites.google.com/view/goedelevandenbroeck) at UCLouvain, working on socio-economic aspects of cocoa in West Africa including child labor, see:
+Prof. [Goedele Van den Broeck](https://sites.google.com/view/goedelevandenbroeck) at UCLouvain, working on socio-economic aspects of cocoa in West Africa including child labor, 
+see: <br>
 Van den Broeck, G., & Akaribo, F. N. (2024). Is Cocoa Production a Main Driver of Children's Work in Ghana?. The Journal of Development Studies, 1-16. [https://doi.org/10.1080/00220388.2024.2401416](https://doi.org/10.1080/00220388.2024.2401416) 
+<br> and the PhD thesis from Steffi Dekegel (2024) "Promoting biodiversity conservation and economic sustainability in the cocoa sector"
+<br> [https://dial.uclouvain.be/pr/boreal/object/boreal:298348](https://dial.uclouvain.be/pr/boreal/object/boreal:298348)
 
 [Trase](https://trase.earth/) with whom we develop cocoa supply chain datasets and transparency. 
 
