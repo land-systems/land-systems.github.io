@@ -69,7 +69,7 @@ Parra-Paitan, C., zu Ermgassen, E. K., Meyfroidt, P., & Verburg, P. H. (2023). L
 
 Renier, C., Addoah, T., Guye, V., Garrett, R., Van den Broeck, G., zu Ermgassen, E. K. H. J., Meyfroidt, P. (n.d.) Direct and indirect cocoa deforestation in the tropical moist forests of Ghana. In review, preprint: [https://doi.org/10.31220/agriRxiv.2025.00302](https://doi.org/10.31220/agriRxiv.2025.00302) 
 
-Guye V., Meyfroidt P., zu Ermgassen E. K. H. J. (n.d.) The need for improved public transparency in the era of due diligence regulations. Submitted to Environmental Science and Policy.
+Guye V., Meyfroidt P., zu Ermgassen E. K. H. J. (n.d.) The need for improved public transparency in the era of due diligence regulations. Under review.
 
 ### Datasets & Methods:
 
