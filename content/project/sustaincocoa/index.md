@@ -56,19 +56,52 @@ Our cross-​scale, interdisciplinary, and transnational approach will provide i
 ---
 Our main outputs in this project so far are: 
 
-The study by [Renier et al. 2023](https://dx.doi.org/10.1088/1748-9326/acad8e) about transparency, traceability and deforestation in Cote d'Ivoire, with an [insight](https://trase.earth/insights/cocoa-exports-drive-deforestation-in-cote-d-ivoire) summarizing the main findings. 
+### Scientific papers:
 
-The [traceability data](https://trase.earth/explore/supply-chain/cote-d-ivoire/cocoa?chartType=sankey&year=2019&indicator=commodity_deforestation_total_exposure&dimension=region_production_1&dimension=exporter_group&dimension=country_of_destination) published on the Trase platform for Cote d'Ivoire (with volumes and embedded deforestation exposure per department, per trader, per importing country).
+Renier, C., Vandromme, M., Meyfroidt, P., Ribeiro, V., Kalischek, N., & zu Ermgassen, E. K. (2023). Transparency, traceability and deforestation in the Ivorian cocoa supply chain. Environmental Research Letters, 18 024030 [https://dx.doi.org/10.1088/1748-9326/acad8e](https://dx.doi.org/10.1088/1748-9326/acad8e)
+(see [insight](https://trase.earth/insights/cocoa-exports-drive-deforestation-in-cote-d-ivoire))
 
-The [updated database](https://dataverse.uclouvain.be/dataset.xhtml?persistentId=doi:10.14428/DVN/YBWJOR) of all cooperatives and their buyers in Cote d'Ivoire.
+zu Ermgassen, E., Renier, C., Carvalho, T., Garcia, A. S., & Meyfroidt, P. (2024). Sustainable commodity sourcing requires measuring and governing land use change at multiple scales. Conservation Letters, 17(3), e13016, [https://doi.org/10.1111/conl.13016](https://doi.org/10.1111/conl.13016)
 
-The [insight](https://trase.earth/insights/cocoa-traders-fall-short-on-supplier-disclosure-in-ghana) published about our inability to trace cocoa from Ghana due to the lack of public disclosures by companies.
+Parra-Paitan, C. A., Meyfroidt, P., Verburg, P. H., zu Ermgassen E. K.H.J. (2024) Deforestation and climate risk hotspots in the global cocoa value chain. Environmental Science & Policy, 158, 103796. [https://doi.org/10.1016/j.envsci.2024.103796](https://doi.org/10.1016/j.envsci.2024.103796) 
 
----
+Parra-Paitan, C., zu Ermgassen, E. K., Meyfroidt, P., & Verburg, P. H. (2023). Large gaps in voluntary sustainability commitments covering the global cocoa trade. Global Environmental Change, 81, 102696. [https://doi.org/10.1016/j.gloenvcha.2023.102696](https://doi.org/10.1016/j.gloenvcha.2023.102696) 
 
-Our main partners in this project are:
+Renier, C., Addoah, T., Guye, V., Garrett, R., Van den Broeck, G., zu Ermgassen, E. K. H. J., Meyfroidt, P. (n.d.) Direct and indirect cocoa deforestation in the tropical moist forests of Ghana. In review, preprint: [https://doi.org/10.31220/agriRxiv.2025.00302](https://doi.org/10.31220/agriRxiv.2025.00302) 
 
-Prof. [Goedele Van den Broeck](https://sites.google.com/view/goedelevandenbroeck) at UCLouvain, working on socio-economic aspects of cocoa in West Africa including child labor. 
+Guye V., Meyfroidt P., zu Ermgassen E. K. H. J. (n.d.) The need for improved public transparency in the era of due diligence regulations. Submitted to Environmental Science and Policy.
+
+### Datasets & Methods:
+
+Guye, V. (2024) Ivorian Cocoa Cooperatives and their Buyers (IC2B) - database v1.0. [https://doi.org/10.14428/DVN/YBWJOR](https://doi.org/10.14428/DVN/YBWJOR) 
+
+Guye, V., Gollnow, F., Biddle, H., Ribeiro, V., Meyfroidt, P., Renier, C., & zu Ermgassen, E. K. H. J. (2024) Côte d'Ivoire cocoa supply chain v.1.1 (2020-2022) (Version 1.1)  (Data set). Trase. [https://doi.org/10.48650/E5CN-FH18](https://doi.org/10.48650/E5CN-FH18) 
+
+Trase (2024) SEI-PCS Côte d'Ivoire cocoa v1.1 supply chain map: Data sources and methods. [https://doi.org/10.48650/3KGC-VB46](https://doi.org/10.48650/3KGC-VB46) 
+
+
+### Trase Ingishts:
+
+Ermgassen, E. zu (2022) Action needed to address indirect sourcing 'blindspot'. [https://trase.earth/insights/action-to-reduce-deforestation-must-address-blindspot-of-indirect-sourcing](https://trase.earth/insights/action-to-reduce-deforestation-must-address-blindspot-of-indirect-sourcing) 
+
+Ermgassen, E. zu (2021) Mapping cocoa exports from Côte d'Ivoire and Ghana. [https://trase.earth/insights/mapping-cocoa-exports-cote-divoire-ghana](https://trase.earth/insights/mapping-cocoa-exports-cote-divoire-ghana) 
+
+Ermgassen, E. zu (2021) Chocolate companies face deforestation risks from unknown cocoa supplies. [https://trase.earth/insights/chocolate-companies-face-deforestation-risks-from-unknown-cocoa-supplies](https://trase.earth/insights/chocolate-companies-face-deforestation-risks-from-unknown-cocoa-supplies) 
+
+Renier, C. (2022) Cocoa exports drive deforestation in Côte d'Ivoire. [https://trase.earth/insights/cocoa-exports-drive-deforestation-in-cote-d-ivoire](https://trase.earth/insights/cocoa-exports-drive-deforestation-in-cote-d-ivoire) 
+
+Richens, J. A. E., Guye, V., & zu Ermgassen, E. (2023) Cocoa traders fall short on supplier disclosure in Ghana. [https://doi.org/10.48650/HY9G-N485](https://doi.org/10.48650/HY9G-N485) 
+
+Guye, V. (2024) Smallholder cocoa farmers need support as EUDR compliance nears. [https://doi.org/10.48650/V73S-KV64](https://doi.org/10.48650/V73S-KV64) 
+
+Guye, V. (2024) Côte d'Ivoire cocoa exports and deforestation. [https://doi.org/10.48650/9HPW-8W11](https://doi.org/10.48650/9HPW-8W11) 
+
+------
+
+### Our main partners in this project are:
+
+Prof. [Goedele Van den Broeck](https://sites.google.com/view/goedelevandenbroeck) at UCLouvain, working on socio-economic aspects of cocoa in West Africa including child labor, see:
+Van den Broeck, G., & Akaribo, F. N. (2024). Is Cocoa Production a Main Driver of Children's Work in Ghana?. The Journal of Development Studies, 1-16. [https://doi.org/10.1080/00220388.2024.2401416](https://doi.org/10.1080/00220388.2024.2401416) 
 
 [Trase](https://trase.earth/) with whom we develop cocoa supply chain datasets and transparency. 
 
