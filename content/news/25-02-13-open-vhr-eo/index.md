@@ -1,5 +1,5 @@
 ---
-title: Opinion piece: To enhance SDG research, open up commercial satellite image archives
+title: Opinion piece - To enhance SDG research, open up commercial satellite image archives
 date: 2025-02-13
 image:
   focal_point: 'top'
