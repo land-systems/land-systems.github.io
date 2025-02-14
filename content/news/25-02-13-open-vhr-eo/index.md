@@ -3,6 +3,9 @@ title: To enhance SDG research, open up commercial satellite image archives
 date: 2025-02-13
 image:
   focal_point: 'top'
+authors: 
+  - philippe-rufin
+  - patrick-meyfroidt
 ---
 
 A call for action published in PNAS! In this opinion piece Philippe, Patrick, and an international team of experts on remote sensing in smallholder agricultural systems argue for improved access to commercial very-high-resolution satellite images.   
