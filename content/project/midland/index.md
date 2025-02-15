@@ -52,6 +52,8 @@ The project MIDLAND - Developing middle-range theories linking land use displace
 ---
 ## Project summary:
 
+[Proposal](https://drive.google.com/file/d/0BzLDZ9tQf8IpNng2VGk0Zkg0Mkk/view?usp=sharing&resourcekey=0-P7onEyxPJh7wpiLOGQSuXg)
+
 Land is a nexus for crucial societal and environmental challenges including food security, access to water, land degradation, biodiversity loss, and climate change. Development of solutions to balance these tradeoffs and synergies is currently hindered by the lack of theories explaining the conditions under which different pathways of land change occur and lead to different outcomes, integrating human and environmental aspects. The project developed and tested integrated middle-range theories explaining the linkages between three of the major processes in land systems, i.e., (i) land use intensification and expansion, (ii) land use displacement and trade, and (iii) land use transitions or regime shifts. The work focused on the emerging agricultural frontier of Southern African dry forests and savannas, which is a threatened and understudied region, and its linkages with distant places. The work is starting in Mozambique, in particular the northern provinces of Nampula, Niassa, Zambezia and Cabo Delgado. The project is built in four steps, analyzing:
 
 (i) The strategic field of actors' coalitions, institutions and distant linkages in emerging frontiers;
