@@ -64,6 +64,18 @@ Land is a nexus for crucial societal and environmental challenges including food
 ---
 Our main outputs in this project were: 
 
+
+## Datasets:
+
+A map of active cropland and short-term fallows across Northern Mozambique for 2020/2021 derived from PlanetScope data
+from Rufin et al. (2022)
+[https://doi.org/10.5281/zenodo.6907606](https://doi.org/10.5281/zenodo.6907606)
+
+Northern Mozambique land use classifications for 2001, 2006, 2012 and 2017
+from Bey and Meyfroidt (2021) 
+[https://code.earthengine.google.com/fc89d25b9e939c37a6eb93fd5aec6919](https://code.earthengine.google.com/fc89d25b9e939c37a6eb93fd5aec6919)
+
+
 ## Scientific papers:
 
 (* : Project member when the research was done)
@@ -178,13 +190,3 @@ Huber R., Bakker M., Balmann A., Berger T., Bithell M., Britz W., Brown C., Grê
 
 Erb, K. H., Luyssaert, S., Meyfroidt*, P., Pongratz, J., Don, A., Kloster, S., Kuemmerle, T., Fetzel, T., Fuchs, R., Herold, M., Haberl, H., Jones, C.D., Marin Spiotta, E., McCallum, I., Robertson, E., Seufert, V., Fritz, S., Valade, A., Wiltshire, A., Dolman, A.J. (2016). Land management: data availability and process understanding for global change studies. Global Change Biology, 23 (2), 512-533, [http://dx.doi.org/10.1111/gcb.13443](http://dx.doi.org/10.1111/gcb.13443)
 
-
-## Datasets:
-
-A map of active cropland and short-term fallows across Northern Mozambique for 2020/2021 derived from PlanetScope data
-from Rufin et al. (2022)
-[https://doi.org/10.5281/zenodo.6907606](https://doi.org/10.5281/zenodo.6907606)
-
-Northern Mozambique land use classifications for 2001, 2006, 2012 and 2017
-from Bey and Meyfroidt (2021) 
-[https://code.earthengine.google.com/fc89d25b9e939c37a6eb93fd5aec6919](https://code.earthengine.google.com/fc89d25b9e939c37a6eb93fd5aec6919)
