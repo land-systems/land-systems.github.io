@@ -8,7 +8,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-09-01T13:00:00Z'
+date: '2025-02-15T13:00:00Z'
 date_end: '2023-09-01T15:00:00Z'
 all_day: false
 
@@ -47,20 +47,20 @@ slides:
 # projects: []
 ---
 
-The project MIDLAND – Developing middle-range theories linking land use displacement, intensification and transitions – was funded as a European Research Council (ERC) Starting Grant under Grant Agreement N°677140: http://cordis.europa.eu/project/rcn/203217_en.html , over 2016-2022.
+The project MIDLAND - Developing middle-range theories linking land use displacement, intensification and transitions - was funded as a European Research Council (ERC) Starting Grant under Grant Agreement N°677140: http://cordis.europa.eu/project/rcn/203217_en.html , over 2016-2022.
 
 ---
 ## Project summary:
 
 Land is a nexus for crucial societal and environmental challenges including food security, access to water, land degradation, biodiversity loss, and climate change. Development of solutions to balance these tradeoffs and synergies is currently hindered by the lack of theories explaining the conditions under which different pathways of land change occur and lead to different outcomes, integrating human and environmental aspects. The project developed and tested integrated middle-range theories explaining the linkages between three of the major processes in land systems, i.e., (i) land use intensification and expansion, (ii) land use displacement and trade, and (iii) land use transitions or regime shifts. The work focused on the emerging agricultural frontier of Southern African dry forests and savannas, which is a threatened and understudied region, and its linkages with distant places. The work is starting in Mozambique, in particular the northern provinces of Nampula, Niassa, Zambezia and Cabo Delgado. The project is built in four steps, analyzing:
 
-(i) The strategic field of actors’ coalitions, institutions and distant linkages in emerging frontiers;
+(i) The strategic field of actors' coalitions, institutions and distant linkages in emerging frontiers;
 (ii) Links between land use displacement, leakage, and local land changes;
 (iii) Pathways of agricultural expansion and intensification in tropical landscapes; and
 (iv) The conditions for transformative governance of land systems to foster resilient landscapes that sustain ecosystem services and livelihoods
 
 ---
-Our main outputs in this project so far are: 
+Our main outputs in this project were: 
 
 ## Scientific papers:
 
@@ -118,3 +118,60 @@ Weesie, R., & Kronenburg García*, A. (2018). From herding to farming under adap
 Kronenburg García*, A. (2018). Territorial Conflicts, Agency and the Strategic Appropriation of Interventions in Kenya's Southern Drylands. Sustainability, 10(11), 4156. https://doi.org/10.3390/su10114156 
 
 Meyfroidt*, P. (2017). Mapping farm size globally: benchmarking the smallholders debate. Environmental Research Letters, 12(3), 031002. [https://dx.doi.org/10.1088/1748-9326/aa5ef6](https://dx.doi.org/10.1088/1748-9326/aa5ef6)
+
+
+### Works on labor, livelihoods and their relations with land use intensity and sustainability
+
+Chiarella*, C., Meyfroidt*, P., Abeygunawardane*, D., Conforti, P. (2023) Balancing the trade-offs between land productivity, labor productivity and labor demand. Ambio, 52, 1618-1634. [https://doi.org/10.1007/s13280-023-01887-4](https://doi.org/10.1007/s13280-023-01887-4)
+
+Meyfroidt*, P., Abeygunawardane*, D., Ramankutty, N., Thomson, A., Zeleke, G. (2019). Interactions between land systems and food systems. Current Opinion in Environmental Sustainability, 38, 60-67. [https://doi.org/10.1016/j.cosust.2019.04.010](https://doi.org/10.1016/j.cosust.2019.04.010)
+
+Meyfroidt*, P. (2017). Trade-offs between environment and livelihoods: Bridging the global land use and food security discussions. Global Food Security, 16, 9-16. [https://doi.org/10.1016/j.gfs.2017.08.001](https://doi.org/10.1016/j.gfs.2017.08.001)
+
+
+### Collaborations on land use, deforestation and conservation frontiers
+
+Junquera, V., Schlüter, M., Rocha, J., Levin, S., Rubenstein, D., Wunderling, N., Castella, J.-C., Meyfroidt*, P. (2024) Crop booms as regime shifts. Royal Society Open Science, 11 (6), 231571 [https://doi.org/10.1098/rsos.231571](https://doi.org/10.1098/rsos.231571).
+
+Buchadas*, A., Jung, M., Bustamante, M., Fernández‐Llamazares, Á., Garnett, S. T., Nanni, A. S., Ribeiro, N., Meyfroidt*, P., Kuemmerle, T. (2023). Tropical dry woodland loss occurs disproportionately in areas of highest conservation value. Global Change Biology. [https://doi.org/10.1111/gcb.16832](https://doi.org/10.1111/gcb.16832)
+
+Pendrill, F., Gardner, T., Meyfroidt*, P., Persson, U.M., Adams, J., Azevedo, T., Bastos Lima, M.G., Baumann, M., Curtis, P.G., De Sy, V., Garrett, R., Godar, J., Goldman, E.D., Hansen, M.C., Heilmayr, R., Herold, M., Kuemmerle, T., Lathuillière, M.J., Ribeiro, V., Tyukavina, A., Weisse, M.J., West, C. (2022) Disentangling the numbers behind agriculture-driven tropical deforestation. Science 377 (6611), eabm9267. [https://doi.org/10.1126/science.abm9267](https://doi.org/10.1126/science.abm9267).
+
+Baumann, M., Gasparri, I., Buchadas*, A., Oeser, J., Meyfroidt*, P., Levers, C., Romero-Muñoz, A., le Polain de Waroux, Y., Müller, D., Kuemmerle, T. (2022) Frontier metrics for a process-based understanding of deforestation dynamics. Environmental Research Letters 17 095010. [https://dx.doi.org/10.1088/1748-9326/ac8b9a](https://dx.doi.org/10.1088/1748-9326/ac8b9a).
+
+Buchadas*, A., Baumann, M., Meyfroidt*, P., Kuemmerle, T. (2022) Uncovering major types of deforestation frontiers across the world's tropical dry woodlands. Nature Sustainability, 5, 619-627, [https://doi.org/10.1038/s41893-022-00886-9](https://doi.org/10.1038/s41893-022-00886-9)
+
+Buchadas* A., Qin* S., Meyfroidt* P., Kuemmerle T. (2022) Conservation frontiers: understanding the geographic expansion of conservation. Journal of Land Use Science, 17 (1), 12-25 [https://doi.org/10.1080/1747423X.2021.2018516](https://doi.org/10.1080/1747423X.2021.2018516)
+
+Rudel, T. K., Meyfroidt*, P., Chazdon, R., Bongers, F., Sloan, S., Grau, H. R., & Van Holt, T. (2021). Response to "Withering the coloniality of the forest transition?". Ambio, 50(9), 1765-1766. [https://doi.org/10.1007/s13280-021-01558-2](https://doi.org/10.1007/s13280-021-01558-2)
+
+Oldekop, J. A., Rasmussen, L. V., Agrawal, A., Bebbington, A. J., Meyfroidt*, P., Bengston, D. N., Blackman, A., Brooks, S., Davidson-Hunt, I., Davies, P., Dinsi, S. C., Fontana, L. B., Gumucio, T., Kumar, C., Kumar, K., Moran, D., Mwampamba, T. H., Nasi, R., Nilsson, M., Pinedo-Vasquez, M. A., Rhemtulla, J. M., Sutherland, W. J., Watkins, C., Wilson, S. J. (2020). Forest-linked livelihoods in a globalized world. Nature Plants, 6(12), 1400-1407. [https://doi.org/10.1038/s41477-020-00814-9](https://doi.org/10.1038/s41477-020-00814-9)
+
+Eigenbrod, F., Beckmann, M., Dunnett, S., Graham, L., Holland, R. A., Meyfroidt*, P., Seppelt, R., Song, X.-P., Spake, R., Václavík, T., Verburg, P. H. (2020). Identifying Agricultural Frontiers for Modeling Global Cropland Expansion. One Earth, 3(4), 504-514. [https://doi.org/10.1016/j.oneear.2020.09.006](https://doi.org/10.1016/j.oneear.2020.09.006)
+
+Reis* T. N. P. d., Meyfroidt*, P., zu Ermgassen*, E. K.H.J., West, C., Gardner, T., Bager, S.L., Croft, S., Lathuillière, M. J., Godar, J. (2020). Understanding trade stickiness to improve the sustainability of global commodity supply chains. One Earth, 3 (1), 100-115, [https://doi.org/10.1016/j.oneear.2020.06.012](https://doi.org/10.1016/j.oneear.2020.06.012).
+
+le Polain de Waroux, Y., Baumann, M., Gasparri, N. I., Gavier-Pizarro, G., Godar, J., Kuemmerle, T., Müller, R., Vázquez, F., Volante, J. N., Meyfroidt*, P. (2018) Rents, actors, and the expansion of commodity frontiers in the Gran Chaco. Annals of the American Association of Geographers 108 (1), 204-225, [https://dx.doi.org/10.1080/24694452.2017.1360761](https://dx.doi.org/10.1080/24694452.2017.1360761)
+
+
+### Broader collaborations on global land use, sustainability theories, other contexts
+
+Schlüter M., Caniglia G., Orach K., Bodin Ö., Magliocca N., Meyfroidt* P., Reyers B. (2022). Why care about theories? Innovative ways of theorizing in sustainability science. Current Opinion in Environmental Sustainability 54, 101154 [https://doi.org/10.1016/j.cosust.2022.101154](https://doi.org/10.1016/j.cosust.2022.101154)
+
+Mastrángelo, M. E., Pérez-Harguindeguy, N., Enrico, L., Bennett, E., Lavorel, S., Cumming, G. S., Abeygunawardane*, D., Amarilla, L. D., Burkhard, B., Egoh, B. N., Frishkoff, L., Galetto, L., Huber, S., Karp, D. S., Ke, A., Kowaljow, E., Kronenburg-García*, A., Locatelli, B., Martín-López, B., Meyfroidt*, P., Mwampamba, T. H., Nel, J., Nicholas, K. A., Nicholson, C., Oteros-Rozas, E., Rahlao, S. J., Raudsepp-Hearne, C., Ricketts, T., Shrestha, U. B., Torres, C., Winkler, K. J., Zoeller, K.(2019). Key knowledge gaps to achieve global sustainability goals. Nature Sustainability, 2(12), 1115-1121. [https://doi.org/10.1038/s41893-019-0412-1](https://doi.org/10.1038/s41893-019-0412-1)
+
+Schierhorn, F., Kastner, T., Kuemmerle, T., Meyfroidt*, P., Kurganova, I., Prishchepov, A. V., Erb, K.-H., Houghton, R. A., Müller, D. (2019). Large greenhouse gas savings due to changes in the post-Soviet food systems. Environmental Research Letters, 14(6), 065009. [https://doi.org/10.1088/1748-9326/ab1cf1](https://doi.org/10.1088/1748-9326/ab1cf1)
+
+Munroe, D. K., Batistella, M., Friis, C., Gasparri, N. I., Lambin, E. F., Liu, J., Meyfroidt*, P., Moran, E., Nielsen, J. Ø. (2019) Governing flows in telecoupled land systems. Current Opinion in Environmental Sustainability 38, 53-59, [https://doi.org/10.1016/j.cosust.2019.05.004](https://doi.org/10.1016/j.cosust.2019.05.004)
+
+Thomson, A. M., Ellis, E. C., Grau, H. R., Kuemmerle, T., Meyfroidt*, P., Ramankutty, N., Zeleke, G. (2019). Sustainable intensification in land systems: trade-offs, scales, and contexts. Current Opinion in Environmental Sustainability, 38, 37-43. [https://doi.org/10.1016/j.cosust.2019.04.011](https://doi.org/10.1016/j.cosust.2019.04.011)
+
+Nielsen, J. Ø., de Bremond, A., Chowdhury, R. R., Friis, C., Metternicht, G., Meyfroidt*, P., Munroe, D., Pascual, U., Thomson, A. (2019). Toward a normative land systems science. Current Opinion in Environmental Sustainability, 38, 1-6. [https://doi.org/10.1016/j.cosust.2019.02.003](https://doi.org/10.1016/j.cosust.2019.02.003)
+
+Oberlack, C., Sietz, D., Bürgi Bonanomi, E., de Bremond, A., Dell'Angelo, J., Eisenack, K., Ellis, E.C., Epstein, G., Giger, M., Heinimann, A., Kimmich, C., Kok, M.T.J., Manuel-Navarrete D., Messerli, P., Meyfroidt*, P., Václavík, T., Villamayor-Tomas S. (2019). Archetype analysis in sustainability research: meanings, motivations, and evidence-based policy making. Ecology and Society, 24(2) 26. [https://doi.org/10.5751/ES-10747-240226](https://doi.org/10.5751/ES-10747-240226)
+
+Rudel, T.K., Meyfroidt*, P., Chazdon, R., Bongers, F., Sloan, S., Grau, H R., Van Holt, T., Schneider, L. (2019). Whither the forest transition? Climate change, policy responses, and redistributed forests in the twenty-first century. Ambio, 49, 74-84, [https://doi.org/10.1007/s13280-018-01143-0](https://doi.org/10.1007/s13280-018-01143-0)
+
+Huber R., Bakker M., Balmann A., Berger T., Bithell M., Britz W., Brown C., Grêt-Regamey A., Hang X., Le Q. B., Mack G., Meyfroidt* P., Millington J., Müller B., Polhill G, Sun J., Seidl R., Troost C., Finger R. (2018). Representation of decision-making in European agricultural agent-based models. Agricultural Systems, 167, 143-160. [https://doi.org/10.1016/j.agsy.2018.09.007](https://doi.org/10.1016/j.agsy.2018.09.007)   
+
+Erb, K. H., Luyssaert, S., Meyfroidt*, P., Pongratz, J., Don, A., Kloster, S., Kuemmerle, T., Fetzel, T., Fuchs, R., Herold, M., Haberl, H., Jones, C.D., Marin Spiotta, E., McCallum, I., Robertson, E., Seufert, V., Fritz, S., Valade, A., Wiltshire, A., Dolman, A.J. (2016). Land management: data availability and process understanding for global change studies. Global Change Biology, 23 (2), 512-533, [http://dx.doi.org/10.1111/gcb.13443](http://dx.doi.org/10.1111/gcb.13443)
