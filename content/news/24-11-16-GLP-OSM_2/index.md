@@ -3,6 +3,9 @@ title: Global Land Programme Open Science Meeting - Part 2
 date: 2024-11-16
 image:
   focal_point: 'top'
+authors: 
+  - philippe-rufin
+  - patrick-meyfroidt
 ---
 
 The Land Systems 4 Sustainability Lab engaged in a vivid discussion on the scientific publishing industry and pathways for creating a community-based, not-for-profit, Open Access journal for Land System Science!

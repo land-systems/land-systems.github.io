@@ -3,6 +3,9 @@ title: Do large fields belong to large farms? New paper with a quantitative expl
 date: 2024-08-22
 image:
   focal_point: 'top'
+authors: 
+  - philippe-rufin
+  - patrick-meyfroidt
 ---
 
 <!--more-->
