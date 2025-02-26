@@ -4,7 +4,7 @@ title: Damares Lopes Afonso
 
 # Username (this should match the folder name)
 authors:
-  - damages-lopes
+  - damares-lopes
 
 # Full Name (for SEO)
 first_name: Damares
