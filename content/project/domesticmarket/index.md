@@ -1,9 +1,9 @@
 ---
-title: DOMESTIC MARKET
+title: BRAZIL MARKET
 
-event: test
+event: BRAZIL MARKET
 
-summary: In this project, we will integrate novel datasets sourced from citizen science, wholesale markets, freight platforms, and government procurement contracts to addresses the key barrier to the study of domestic markets: the lack of data.
+summary: In this project, we will integrate novel datasets sourced from citizen science, wholesale markets, freight platforms, and government procurement contracts to address the key barrier to the study of domestic markets: the lack of data.
 
 abstract: ''
 
