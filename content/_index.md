@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: "Land Systems for Sustainability Lab"
 date: 2022-10-24
 type: landing
 
