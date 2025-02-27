@@ -1,9 +1,9 @@
 ---
-title: BRAZIL MARKET
+title: DOMESTIC
 
-event: BRAZIL MARKET
+event: DOMESTIC
 
-summary: Test if the problem is here
+summary: A key barrier to the study of domestic markets is the lack of data. While country-level data are commonly used to track international trade, the data necessary to map subnational trade flows within domestic markets are seldom collated. In the DOMESTIC project, we will bridge this knowledge gap by integrating novel datasets sourced from citizen science, wholesale markets, freight platforms, and government procurement contracts.
 
 abstract: ''
 
@@ -53,14 +53,13 @@ slides:
 ---
 ## Project summary:
 
-Trase combines data on commodity production and trade from many different sources with a unique form of material flow analysis to map supply chains linking consumer markets, via traders, with regions of production. Trase quantifies exposure to deforestation and other environmental impacts for consumer markets sourcing commodities from regions of production.
+The sustainability literature on agricultural markets, telecoupling, and supply chain governance focuses on global value chains, often overlooking domestic markets – though these are responsible for the majority of food (74-88%), agricultural land use (78%), deforestation (61-71%), and global land use emissions (73%).
 
-The team at UCLouvain have contributed to Trase since its founding, helping develop the [original method](http://www.sciencedirect.com/science/article/pii/S0921800915000427), and then mapping [Brazil’s beef exports](https://www.pnas.org/doi/10.1073/pnas.2003270117) and [cocoa exports from Côte d’Ivoire](https://iopscience.iop.org/article/10.1088/1748-9326/acad8e) (see also the [SUSTAIN-Cocoa project](https://landsystems-lab.earth/project/sustaincocoa/)), as well as contributing to [cross-commodity assessments of the drivers of deforestation](https://doi.org/10.1126/science.abm9267) and [sourcing strategies of major commodity traders](https://www.science.org/doi/10.1126/sciadv.abn3132).
+A key barrier to the study of domestic markets is the lack of data. While country-level data are commonly used to track international trade, the data necessary to map subnational trade flows within domestic markets are seldom collated.
 
-Ongoing work includes the application of AI to improve traceability in cattle supply chains, impact evaluation of corporate sustainability commitments, and the assessment of social impacts of international trade.
+In the DOMESTIC project, we will bridge this knowledge gap by integrating novel datasets sourced from citizen science, wholesale markets, freight platforms, and government procurement contracts. Our focus will be on mapping the flow of food products within Brazil – the world’s ninth largest economy, a rapidly urbanizing, emerging market with a booming agricultural sector and large domestic market. We will employ life cycle assessment methods to these food flow data to compute the land use, deforestation, and carbon footprints of millions of individual supply chains and products. This will provide an unprecedented analysis of how the environmental impact of consumption varies across different populations and cities and how it relates to urban context. A key advance on previous product footprints will be our combination of supply chain data alongside information on land tenure, agricultural suitability, commodity prices, and forest fires to differentiate how much deforestation is driven by agriculture, rather than other contributing factors.
 
-This work has been funded by the Gordon and Betty Moore Foundation— 7703.01; Norway’s International Climate and Forest Initiative—QZA-21/0156 and Quadrature Climate Foundation—01-21-000098 and CIFF (Grant No. 2409-09836).
-
-For more information about Trase visit https://trase.earth/. 
+Finally, the project will analyse public policies affecting food production and consumption, including a large-scale assessment of the Brazilian school meal program (PNAE) to understand its nutritional and environmental impacts, and an examination of how agricultural subsidies can be redirected to foster a sustainability transformation within the Brazilian food system.
+This project is funded by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant Agreement No. 101162844).
 
 ---
