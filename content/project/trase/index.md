@@ -4,8 +4,7 @@ title: TRASE
 event: TRASE
 
 summary: Trase is a not-for-profit initiative founded in 2015 by the Stockholm Environment Institute and Global Canopy to bring transparency to deforestation and agricultural commodity trade.
-abstract: 'In the proposed research we aim to investigate the conditions under which supply chain sustainability initiatives (SSIs) can lead to reduced deforestation and increased shade-​tree cover in cocoa production systems and, in turn, a triple-​win of increased biodiversity, climate change mitigation, and livelihood resilience.
-Our cross-​scale, interdisciplinary, and transnational approach will provide insights into the on-​the-ground impacts of existing SSIs in the cocoa sector and the potential impacts of scaling up SSIs to reduce deforestation and enhance shade-​tree cover. Furthermore, it will clarify the role that agroforestry can play in helping deliver multiple sustainability objectives: protecting biodiversity, climate mitigation, and improved farmer livelihoods. It thus aligns well with the EU’s efforts to step up action to protect and restore the world’s forests.'
+abstract: ' '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -57,4 +56,5 @@ The team at UCLouvain have contributed to Trase since its founding, helping deve
 Ongoing work includes the application of AI to improve traceability in cattle supply chains, impact evaluation of corporate sustainability commitments, and the assessment of social impacts of international trade.
 This work has been funded by the Gordon and Betty Moore Foundation— 7703.01; Norway’s International Climate and Forest Initiative—QZA-21/0156 and Quadrature Climate Foundation—01-21-000098 and CIFF (Grant No. 2409-09836).
 For more information about Trase visit https://trase.earth/. 
+
 ---
