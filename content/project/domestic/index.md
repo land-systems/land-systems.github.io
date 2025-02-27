@@ -19,7 +19,6 @@ publishDate: '2025-02-26T00:00:00Z'
 authors: 
   - erasmus-zuermgassen
   - damares-lopes
-  - bruno-nobrega
 tags: []
 
 # Is this a featured talk? (true/false)
