@@ -23,7 +23,6 @@ authors:
   - cecile-renier
   - valentin-guye
 	
-
 tags: []
 
 # Is this a featured talk? (true/false)
