@@ -13,7 +13,7 @@ date: '2025-01-01T00:00:00Z'
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-10T00:00:00Z'
+publishDate: '2025-03-09T00:00:00Z'
 
 authors:
   - erasmus-zuermgassen
