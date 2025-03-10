@@ -3,31 +3,28 @@ title: DOMESTIC
 
 event: DOMESTIC
 
-summary: Trase is a not-for-profit initiative founded in 2015 by the Stockholm Environment Institute and Global Canopy to bring transparency to deforestation and agricultural commodity trade.
+summary: DOMESTIC is a project that aims to reduce the lack of domestic market data by integrating data from citizen science, wholesale markets, freight platforms, and government procurement contracts. 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2025-01-01T00:00:00Z'
+date: '2025-01-01T00:00:00Z'
 #date_end: '2030-01-01T15:00:00Z'
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-02-26T00:00:00Z'
+publishDate: '2025-03-10T00:00:00Z'
 
 authors:
   - erasmus-zuermgassen
-  - valentin-guye
-  - thais-menezes
-  - janne-bemelmanns
-  - cecile-renier
+  - damares-lopes
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  #caption: 'Trase logo'
+  #caption: 'Domestic market flow idea'
   focal_point: Right
 
 url_code: ''
