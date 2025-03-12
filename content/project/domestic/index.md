@@ -3,7 +3,7 @@ title: DOMESTIC
 
 event: DOMESTIC
 
-summary: ‘do Pasto ao Prato’ (‘from Pasture to Plate’) is a transparency initiative and app which allows users to scan beef, pork and chicken products in Brazil to verify where that product comes from, and how it scores on environmental and social indicators.
+summary: ‘DOMESTIC’ is a project designed to integrate novel datasets, addressing the current data scarcity in the study of domestic markets.
 
 abstract: ''
 
@@ -14,19 +14,19 @@ date: '2025-01-01T13:00:00Z'
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-02-26T00:00:00Z'
+publishDate: '2025-03-12T00:00:00Z'
 
 authors: 
   - erasmus-zuermgassen
-  - andrea-garcia
-  - finn-mempel
+  - damares-lopes
+  - bruno-gonzalez
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  #caption: '‘do Pasto ao Prato’ logo'
+  #caption: 'Domestic market flow example'
   focal_point: Right
 
 url_code: ''
