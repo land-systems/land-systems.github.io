@@ -8,8 +8,8 @@ sections:
   - block: markdown
     content:
       title: Land Systems for Sustainability Lab
-        body: |
-          ![Land Systems](/assets/media/chiarella2021.jpg)
+      body: |
+        ![Land Systems](/assets/media/chiarella2021.jpg)
 
   - block: collection
     content:
