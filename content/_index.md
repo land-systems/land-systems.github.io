@@ -9,11 +9,14 @@ sections:
     content:
       title: |
         Land Systems for Sustainability Lab
-  - block: hero
+  - block: collection
     content:
+      title:
       image:
         filename: chiarella2021.jpg
-  - block: hero
+      design:
+        columns: '1'
+  - block: collection
     content:
       text: |
         <br> Our research focuses on how land use and, more broadly, land systems can contribute to sustainability.
