@@ -1,7 +1,7 @@
 ---
-title: TESTE
+title: DOMESTIC
 
-event: TESTE
+event: DOMESTIC
 
 summary: 'This is a project designed to integrate novel datasets, addressing the currrent data scarity in the study of domestic markets'
 abstract: 
