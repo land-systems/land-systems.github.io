@@ -9,9 +9,7 @@ sections:
     content:
       title: Land Systems for Sustainability Lab
       body: |
-        ![Land Systems](/media/chiarella2021.jpg)
-
-        test test test test
+        <img src="/media/chiarella2021.jpg" alt="Land Systems" />
 
   - block: collection
     content:
