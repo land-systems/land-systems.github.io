@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni (incl. Guests)
 ---
 
 Valentin is a postdoctoral researcher on the [SUSTAIN-COCOA](https://epl.ethz.ch/research/SUSTAIN-COCOA.html) project and with the [Trase initiative](https://www.trase.earth/). His research focuses on cocoa production in West Africa. He maintains data and models of cocoa supply chains, to map and assess the impacts of sustainability interventions therein. He has a special interest in causality and spillovers, which he primarily studies with spatial and reduced-form econometrics in quasi-experimental frameworks.
