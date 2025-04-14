@@ -7,7 +7,7 @@ authors:
   - patrick-meyfroidt
 ---
 
-Unilateral value chain policies have recently emerged as a key strategy of international land use governance. These policies are part of a broader trend towards trade-based environmental policies, from corporate due diligence to sustainability certification and trade moratoria, that has been critiqued for reinforcing inequities in global trade. 
+Unilateral value chain policies have recently (re-)emerged as a key strategy of international land use governance. These policies are part of a broader trend towards trade-based environmental policies, from corporate due diligence to sustainability certification and trade moratoria, that has been critiqued for reinforcing inequities in global trade. 
 
 <!--more-->
 
