@@ -7,7 +7,7 @@ authors:
   - patrick-meyfroidt
 ---
 
-You may see our just uploaded preprint, this is a product from a [GLP](https://glp.earth/) initiative to contribute to policy and political reflection about how to improve sustainability and justice in land systems, [see more here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296609#) and below
+Our just uploaded preprint, led by colleague Rachael Garrett, this is a product from a [GLP](https://glp.earth/) initiative to contribute to policy and political reflection about how to improve sustainability and justice in land systems, [see more here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296609#) and below
 
 <!--more-->
 
