@@ -1,11 +1,13 @@
 ---
-title: New ERC project on land use, sustainability, and democratic backsliding, and preprint
+title: New ERC project on land use, sustainability, and democratic backsliding, with preprint
 date: 2025-06-20
 image:
   focal_point: 'top'
 authors: 
   - patrick-meyfroidt
 ---
+
+Read more
 
 <!--more-->
 
@@ -15,4 +17,4 @@ You may find a [preprint that argues about the importance of these interlinkages
 
 Stay tuned as several PhDs and Postdoc positions will hopefully circulate soon! 
 
-
+This will be the third active ERC in our broader teams at UCLouvain working on land systems, with the project LUIRET led by Eric Lambin about land use impacts of renewable energy transition, and the project DOMESTIC led by Erasmus zu Ermgassen!
