@@ -7,7 +7,7 @@ authors:
   - patrick-meyfroidt
 ---
 
-Read more
+Read more...
 
 <!--more-->
 
