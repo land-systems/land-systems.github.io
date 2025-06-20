@@ -17,4 +17,4 @@ You may find a [preprint that argues about the importance of these interlinkages
 
 Stay tuned as several PhDs and Postdoc positions will hopefully circulate soon! 
 
-This will be the third active ERC in our broader teams at UCLouvain working on land systems, with the project LUIRET led by Eric Lambin about land use impacts of renewable energy transition, and the project DOMESTIC led by Erasmus zu Ermgassen!
+This will be the third currently active ERC in our broader teams at UCLouvain working on land systems, with the project LUIRET led by [Eric Lambin](https://www.elic.ucl.ac.be/index.php?id=92) about land use impacts of renewable energy transition, and the project [DOMESTIC](https://landsystems-lab.earth/project/domestic/) led by [Erasmus zu Ermgassen](https://landsystems-lab.earth/author/erasmus-zu-ermgassen/) about domestic food systems in Brazil!
