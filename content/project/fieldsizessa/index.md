@@ -51,7 +51,7 @@ slides:
 Improving the mapping of field and farm size will allow for step-change in our understanding of the role of farm size in agricultural dynamics, the effects of different governance interventions aimed at rural development, food security, and balancing environment and development goals, the impacts of heterogeneity and inequalities in the internal distribution of land for different ranges of farm sizes, and the evolution of average farm size over time.
 The overarching goal of this research is to improve the understanding of the role of field and farm sizes in dynamics of land use, livelihoods and sustainability, by (i) developing algorithms and a workflow to map field sizes from remote sensing data in smallholder-dominated landscapes of Sub-Saharan Africa, over large areas and across time series, (ii) applying this workflow to produce such maps for two large regions in contrasted environments, and (iii) analyzing the dynamics of land use change revealed by these maps. This work will demonstrate the potential for field size mapping at scale relevant for policy-making and sustainability assessments, and open the way for the first wall-to-wall continental field size map of Sub- Saharan Africa.
 
-# Project outcomes
+## Project outcomes
 
 ## Datasets:
 
