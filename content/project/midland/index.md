@@ -75,6 +75,8 @@ Northern Mozambique land use classifications for 2001, 2006, 2012 and 2017
 from Bey and Meyfroidt (2021) 
 [https://code.earthengine.google.com/fc89d25b9e939c37a6eb93fd5aec6919](https://code.earthengine.google.com/fc89d25b9e939c37a6eb93fd5aec6919)
 
+Fils, S., Jorge, A. A., & Meyfroidt, P. (2025). A geospatial dataset of historical state farms in North-Central Mozambique v1.0 (1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16148259](https://doi.org/10.5281/zenodo.16148259)
+
 
 ## Scientific papers:
 
