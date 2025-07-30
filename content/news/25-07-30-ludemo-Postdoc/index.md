@@ -11,7 +11,7 @@ authors:
 
 The Land Systems for Sustainability Lab from Earth and Life Institute at UCLouvain in Belgium seeks highly qualified & motivated candidates for
 
-Two Postdoctoral positions, on 'Land use, Sustainability, and Democratic Backsliding'
+Two Postdoctoral positions on 'Land use, Sustainability, and Democratic Backsliding'
  
 This offer is also published on Euraxess: [https://euraxess.ec.europa.eu/jobs/365457](https://euraxess.ec.europa.eu/jobs/365457)
 
