@@ -37,12 +37,3 @@ Profiles required: A researcher holding a PhD degree in political science, socio
 Several skills can constitute strong assets, including outreach experience with stakeholders, familiarity with data processing, text mining and quantitative / statistical analyses, and familiarity with some of the focal contexts of the project.
 This position is for two years, under renewable yearly scholarships, a short extension might be possible. 
 
-For both positions, the candidate should demonstrate a solid command of the English language, and the ability to work collaboratively in a research team and to establish a local and international networks. 
-
-Contracts will be based on Belgian regulations, depending on prior research experience, and will include the benefits of the Belgian social security such as health insurance.
-
-You do not need to be a Belgian- or EU citizen, nor have a work/residence permit in order to apply for these positions. Your visa costs will be sponsored. We value diversity, inclusivity and creativity and we encourage applicants from diverse backgrounds to apply. 
-Candidates should submit a CV and a cover letter detailing qualifications and research interests, to which position you apply, and names and contacts information of three referees to: 
-Prof. Patrick Meyfroidt - [patrick.meyfroidt@uclouvain.be](mailto:patrick.meyfroidt@uclouvain.be) 
-The review of applications will start on September 5, 2025, applications will close on that date.
-Starting date: As soon as possible.
