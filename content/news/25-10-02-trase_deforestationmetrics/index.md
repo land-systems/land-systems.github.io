@@ -16,5 +16,6 @@ See more explanations in the accompanying blog post from SEI:
 
 and read the full paper here:
 [https://doi.org/10.1111/conl.13145](https://doi.org/10.1111/conl.13145)
+
 Lathuilliere, M. J., Gardner, T. A., Persson, U. M., Ribeiro, V., Heilmayr, R., Pendrill, F., Meyfroidt, P. (2025). Complementary Perspectives and Metrics Are Essential to End Deforestation. Conservation Letters, 18(5), e13145.
 
