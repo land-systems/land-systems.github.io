@@ -7,8 +7,8 @@ authors:
   - janne-bemelmanns
 
 # Full Name (for SEO)
-first_name: Thais
-last_name: Pacheco Menezes
+first_name: Janne
+last_name: Bemelmans
 
 # Is this the primary user of the site?
 superuser: false
@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni (incl. Guests)
 ---
 
-Janne is a postdoctoral researcher, working with the Trase initiative. Her research revolves around supply chain governance for sustainable food system transformations, particularly focusing on the impact of different initiatives. Janne holds a PhD in agricultural economics from KU Leuven (2024), for which she investigated the socio-economic effectiveness of voluntary sustainability standards in tropical commodity sectors. She further holds degrees in bioscience engineering (BSc, 2016, MSc 2018) from KU Leuven and in development studies from the Institute of Development Policy (IOB) at the University of Antwerp (MSc, 2019). She has field experience in Indonesia, Senegal and the Philippines.
+Janne was in the team in 2025 as a postdoctoral researcher, working with the Trase initiative. Her research revolves around supply chain governance for sustainable food system transformations, particularly focusing on the impact of different initiatives. Janne holds a PhD in agricultural economics from KU Leuven (2024), for which she investigated the socio-economic effectiveness of voluntary sustainability standards in tropical commodity sectors. She further holds degrees in bioscience engineering (BSc, 2016, MSc 2018) from KU Leuven and in development studies from the Institute of Development Policy (IOB) at the University of Antwerp (MSc, 2019). She has field experience in Indonesia, Senegal and the Philippines. Janne is now working at the Joint Research Center (JRC) of the European Commission.
