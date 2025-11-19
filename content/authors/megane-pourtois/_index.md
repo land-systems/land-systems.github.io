@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD candidate
+  - Researchers
 ---
 
 Megane is a doctoral researcher contributing to the LUDEMO project on "Land Use, Sustainability, and Democratic Backsliding" led by Prof. Patrick Meyfroidt. Her work focuses on Europe, studying how democratic backsliding shapes, and is shaped by, land use and sustainability dynamics. She holds a bioengineering degree from UCLouvain (2024), where she specialized in environmental sciences and sustainability, as well as a degree in International Business from KULeuven (2025).
