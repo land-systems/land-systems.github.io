@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mégane Pourtois
+title: Megane Pourtois
 
 # Username (this should match the folder name)
 authors:
@@ -60,4 +60,4 @@ user_groups:
   - PhD candidate
 ---
 
-Mégane is a doctoral researcher contributing to the LUDEMO project on "Land Use, Sustainability, and Democratic Backsliding" led by Prof. Patrick Meyfroidt. Her work focuses on Europe, studying how democratic backsliding shapes, and is shaped by, land use and sustainability dynamics. She holds a bioengineering degree from UCLouvain (2024), where she specialized in environmental sciences and sustainability, as well as a degree in International Business from KULeuven (2025).
+Megane is a doctoral researcher contributing to the LUDEMO project on "Land Use, Sustainability, and Democratic Backsliding" led by Prof. Patrick Meyfroidt. Her work focuses on Europe, studying how democratic backsliding shapes, and is shaped by, land use and sustainability dynamics. She holds a bioengineering degree from UCLouvain (2024), where she specialized in environmental sciences and sustainability, as well as a degree in International Business from KULeuven (2025).
