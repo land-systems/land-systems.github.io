@@ -20,6 +20,7 @@ authors:
   - erasmus-zuermgassen
   - andrea-garcia
   - finn-mempel
+  - thais-menezes
 tags: []
 
 # Is this a featured talk? (true/false)
