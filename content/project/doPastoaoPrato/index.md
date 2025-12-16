@@ -64,3 +64,9 @@ Do Pasto ao Prato is an initiative led by UCLouvain and Global Canopy, together 
 This project has received funding from Norway's International Climate and Forest Initiative (BRA-22/0017), CIFF (Grant No. 2409-09836), and the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 101162844).
 
 ---
+
+## Scientific Papers:
+
+zu Ermgassen, E.K.H.J., Garcia, A., Ribeiro, V., & Santos, D. & os cientistas cidadãos da iniciativa do Pasto ao Prato, Radiografia da pecuária do Cerrado (2025). do Pasto ao Prato. https://doi.org/10.48650/H7NE-D408
+
+---
