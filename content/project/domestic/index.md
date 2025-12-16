@@ -58,6 +58,7 @@ Finally, the project will analyse public policies affecting food production and 
 
 This project is funded by the European Research Council (ERC) under the European Union Horizon 2020 research and innovation programme (Grant agreement No. 101162844).
 
+---
 ### Scientific papers:
 
 Lopes, D., Perobelli, F., Faria, W., zu Ermgassen, E.K.H.J (2025) The role of domestic and international markets in the loss of nature across Brazil. https://doi.org/10.21203/rs.3.rs-8308196/v1
