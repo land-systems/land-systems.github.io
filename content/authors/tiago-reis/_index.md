@@ -60,6 +60,4 @@ user_groups:
   - Alumni (incl. Guests)
 ---
 
-Virginia Rodríguez García holds a B.Sc. in Environmental Sciences from the University of Salamanca (Spain) and a M.Sc. in Agriculture and Bio-industries from the Université catholique de Louvain (Belgium) and a M.Sc. in Agricultural and Food Economics from the University of Bonn (Germany). During her MA thesis, she analyzed the impact of coffee certification on the Bonga forest in Ethiopia where she did a fieldwork.
-
-Virginia did her doctoral research with the MIDLAND project over 2016-2021. She contributes to step 2 by developing and testing theories to explain how do land use dynamics generate land use displacement and leakage, and when does land use displacement result in intensification versus expansion of land use.
+PhD thesis on "Understanding geographic trade stickiness to improve the sustainability of global commodity supply chains" (co-supervision with Prof. T. Kuemmerle, as part of the [COUPLED MSCA-ITN](http://coupled-itn.eu/) project).
