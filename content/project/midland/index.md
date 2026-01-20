@@ -17,7 +17,19 @@ publishDate:
 
 authors: 
   - patrick-meyfroidt
-
+  - adia-bey
+  - virginia-garcia
+  - angela-garcia
+  - dilini-abeygunawardane
+  - eduardo-oliveira
+  - cristina-chiarella
+  - michelle-picoli
+  - philippe-rufin
+  - luis-artur
+  - arsenio-jorge
+  - almeida-sitoe
+  - natasha-ribeiro
+  - julieta-jetimane
 
 tags: []
 
