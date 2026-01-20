@@ -26,11 +26,7 @@ authors:
   - michelle-picoli
   - philippe-rufin
   - sa-lisboa
-  - luis-artur
-  - arsenio-jorge
-  - almeida-sitoe
-  - natasha-ribeiro
-  - julieta-jetimane
+
 
 tags: []
 
