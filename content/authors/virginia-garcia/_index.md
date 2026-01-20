@@ -41,10 +41,10 @@ organizations:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: ''
+# social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:valentin.guye@uclouvain.be'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,6 +60,6 @@ user_groups:
   - Alumni (incl. Guests)
 ---
 
-Virginia Rodríguez García holds a B.Sc. in Environmental Sciences from the University of Salamanca (Spain) and a M.Sc. in Agriculture and Bio-industries from the Université catholique de Louvain (Belgium) and a M.Sc. in Agricultural and Food Economics from the University of Bonn (Germany). During her MA thesis, she analyzed the impact of coffee certification on the Bonga forest in Ethiopia where she did a fieldwork.
+Virginia Rodríguez García holds a B.Sc. in Environmental Sciences from the University of Salamanca (Spain) and a M.Sc. in Agriculture and Bio-industries from the UCLouvain (Belgium) and a M.Sc. in Agricultural and Food Economics from the University of Bonn (Germany). During her MA thesis, she analyzed the impact of coffee certification on the Bonga forest in Ethiopia where she did a fieldwork.
 
-Virginia did her doctoral research with the MIDLAND project over 2016-2021. She contributes to step 2 by developing and testing theories to explain how do land use dynamics generate land use displacement and leakage, and when does land use displacement result in intensification versus expansion of land use.
+Virginia did her doctoral research with the MIDLAND project over 2016-2021. She contributed to step 2 by developing and testing theories to explain how do land use dynamics generate land use displacement and leakage, and when does land use displacement result in intensification versus expansion of land use.
