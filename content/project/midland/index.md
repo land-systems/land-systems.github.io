@@ -25,7 +25,13 @@ authors:
   - cristina-chiarella
   - michelle-picoli
   - philippe-rufin
-  
+  - sa-lisboa
+  - luis-artur
+  - arsenio-jorge
+  - almeida-sitoe
+  - natasha-ribeiro
+  - julieta-jetimane
+
 tags: []
 
 # Is this a featured talk? (true/false)
