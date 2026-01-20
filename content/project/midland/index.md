@@ -25,9 +25,7 @@ authors:
   - cristina-chiarella
   - michelle-picoli
   - philippe-rufin
-  - sa-lisboa
-
-
+  
 tags: []
 
 # Is this a featured talk? (true/false)
