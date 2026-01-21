@@ -18,6 +18,7 @@ publishDate:
 authors: 
   - patrick-meyfroidt
   - megane-pourtois
+  - fairlie-kirkpatrickbaird
 
 tags: []
 
