@@ -16,9 +16,7 @@ all_day: false
 publishDate: 
 
 authors: 
-  - patrick-meyfroidt
-  - megane-pourtois
-  - fairlie-kirkpatrickbaird
+
 
 tags: []
 
