@@ -14,7 +14,7 @@ last_name:  Renier
 superuser: false
 
 # Role/position
-role: PhD candidate 
+role: Postdoctoral researcher 
 
 # Organizations/Affiliations
 organizations:
