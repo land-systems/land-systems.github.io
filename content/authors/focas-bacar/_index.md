@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Fairlie Kirkpatrick Baird
+title: Focas Bacar
 
 # Username (this should match the folder name)
 authors:
-  - fairlie-kirkpatrickbaird
+  - focas-bacar
 
 # Full Name (for SEO)
-first_name: Fairlie
-last_name: Kirkpatrick Baird
+first_name: Focas
+last_name: Bacar
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,7 +44,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fairlie.kirkpatrick@uclouvain.be'
+    link: 'mailto:focas.bacar@uclouvain.be'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +60,4 @@ user_groups:
   - Researchers
 ---
 
-Fairlie is a doctoral researcher for the LUDEMO project "Land Use, Sustainability, and Democratic Backsliding" led by Prof. Patrick Meyfroidt. Fairlie has a varied background, with a BA in History from the University of Oxford (2017), an MSc in Ecology, Evolution and Conservation from Imperial College London, and experience with applied nature conservation. They spent five years specialising in GIS for NatureScot, the Scottish Government's nature conservation agency, including work on climate change, nature conservation, and protected areas. Now, they are combining their skills and interests to focus on land use and sustainability in Canada, exploring how land use dynamics and environmental change shape and are shaped by social and political factors to affect sustainability.
+Focas is a doctoral researcher in the LUDEMO project "Land Use, Sustainability, and Democratic Backsliding" led by Prof. Patrick Meyfroidt. His research aims to comprehend how democratic backsliding affects and is affected by land use changes and related sustainability issues in Mozambique. He has a BSc (Hons) in Forest Engineering (2020) and an MSc in Forest Sciences-Economics and Forest Management Branch (2023) from Eduardo Mondlane University. His expertise spans multiple disciplines, including Ecology, Biodiversity and Conservation, Geographic Information System (GIS), Remote Sensing, Land Change Science, Plant Taxonomy, and Ethnobotany. With experience in scientific research, Focas has contributed to understanding the effects of anthropogenic and climate change-related factors on plant biodiversity, ecosystem services, land use and land cover changes, ecological connectivity of forest patches, ecosystem functioning, and landscape structure in Mozambique.
