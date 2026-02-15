@@ -19,9 +19,7 @@ authors:
   - patrick-meyfroidt
   - megane-pourtois
   - fairlie-kirkpatrickbaird
-  - focas bacar
-
-
+  
 tags: []
 
 # Is this a featured talk? (true/false)
