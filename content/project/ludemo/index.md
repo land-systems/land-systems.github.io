@@ -8,7 +8,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-12-02T13:00:00Z'
+date: '2025-11-01T13:00:00Z'
 # date_end: '2030-09-01T15:00:00Z'
 all_day: false
 
@@ -50,4 +50,4 @@ url_video: ''
 # projects: []
 ---
 
-The project LUDEMO - Land use, Sustainability, and Democratic Backsliding - is funded as a European Research Council (ERC) Advanced Grant under Grant Agreement N 101198755: [https://cordis.europa.eu/project/id/101198755](https://cordis.europa.eu/project/id/101198755) , over 2025-2030.
+The project LUDEMO
