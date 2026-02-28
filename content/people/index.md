@@ -5,12 +5,12 @@ date: 2022-10-24
 type: landing
  
 sections: 
-  - block: image
+  - block: hero
     content:
-      image: teampicture.jpg
-      caption: Meet the team
-    design:
-      columns: "1"
+      title: "Meet the Team"
+      image:
+        filename: teampicture.jpg
+      text: "" 
 
   - block: people
     content:
