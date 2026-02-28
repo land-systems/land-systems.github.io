@@ -4,12 +4,15 @@ date: 2022-10-24
 
 type: landing
 
+image:
+  filename: teampicture.jpg
+  focal_point: "Center"
+  preview_only: false
+
 sections: 
   - block: people
     content:
-      title: Meet the Team
-      image:
-        filename: teampicture.jpg
+      title: Meet the Team 
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups. 
       user_groups:
