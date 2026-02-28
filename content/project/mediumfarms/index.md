@@ -19,6 +19,7 @@ publishDate:
 authors: 
   - philippe-rufin
   - patrick-meyfroidt
+  - pauline-hammer
 
 tags: []
 
