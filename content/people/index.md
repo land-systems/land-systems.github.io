@@ -3,13 +3,15 @@ title: People
 date: 2022-10-24
 
 type: landing
-
-image:
-  filename: teampicture.jpg
-  focal_point: "Center"
-  preview_only: false
-
+ 
 sections: 
+  - block: image
+    content:
+      image: teampicture.jpg
+      caption: Meet the team
+    design:
+      columns: "1"
+
   - block: people
     content:
       title: Meet the Team 
