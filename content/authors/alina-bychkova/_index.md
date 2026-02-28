@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anila Bychkova
+title: Alina Bychkova
 
 # Username (this should match the folder name)
 authors:
