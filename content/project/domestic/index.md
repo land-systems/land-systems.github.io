@@ -19,6 +19,7 @@ authors:
   - erasmus-zuermgassen
   - damares-lopes
   - bruno-gonzalez
+  - jacqueline-silva
 tags: []
 
 # Is this a featured talk? (true/false)
