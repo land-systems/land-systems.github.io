@@ -8,7 +8,7 @@ authors:
 
 # Full Name (for SEO)
 first_name: Jacqueline
-last_name: Theresa da Silva
+last_name: Teresa da Silva
 
 # Is this the primary user of the site?
 superuser: false
