@@ -21,6 +21,7 @@ authors:
   - fairlie-kirkpatrickbaird
   - focas-bacar
   - alina-bychkova
+  - gabriel-soyer
 
 tags: []
 
