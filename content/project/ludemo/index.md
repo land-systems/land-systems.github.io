@@ -20,8 +20,7 @@ authors:
   - megane-pourtois
   - fairlie-kirkpatrickbaird
   - focas-bacar
-  - alina-bychkova
-  - gabriel-soyer
+  - alina-bychkova 
 
 tags: []
 
