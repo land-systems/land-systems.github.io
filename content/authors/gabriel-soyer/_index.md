@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gabriel de Azevedo Soyer
+title: Gabriel Soyer
 
 # Username (this should match the folder name)
 authors:
@@ -8,7 +8,7 @@ authors:
 
 # Full Name (for SEO)
 first_name: Gabriel
-last_name: de Azevedo Soyer
+last_name: Soyer
 
 # Is this the primary user of the site?
 superuser: false
