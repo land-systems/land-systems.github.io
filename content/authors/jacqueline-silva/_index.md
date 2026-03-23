@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jacqueline Teresa da Silva
+title: Jacqueline Tereza da Silva
 
 # Username (this should match the folder name)
 authors:
