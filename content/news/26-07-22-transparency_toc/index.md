@@ -15,7 +15,7 @@ Multiple initiatives aim to enhance the transparency of commodity supply chains.
 
 But how do we go from here (transparency) to there (actual actions that can improve sustainability outcomes)? 
 
-[https://zenodo.org/records/21290522](In this preprint), we argue that this path goes through several steps: revealing exposure, attributing causal impacts, assessing leverage capacity of the actors, assigning responsibility, and building accountability.
+[In this preprint](https://zenodo.org/records/21290522), we argue that this path goes through several steps: revealing exposure, attributing causal impacts, assessing leverage capacity of the actors, assigning responsibility, and building accountability.
 
 We first unpack these different concepts as relevant to supply chain transparency and sustainability governance, and from that we build a more explicit and structured theory of change of the role of transparency initiatives in achieving sustainable supply chains. Based on that theory of change, to identify implications and ways forward to improve the design and implementation of transparency initiatives. 
 
