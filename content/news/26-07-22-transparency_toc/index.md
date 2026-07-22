@@ -7,7 +7,7 @@ authors:
   - patrick-meyfroidt
 ---
 
-[https://zenodo.org/records/21290522][def]
+[Preprint here][def]
 
 <!--more-->
 
