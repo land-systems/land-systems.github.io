@@ -1,5 +1,5 @@
 ---
-title: Deforestation and retail prices of Brazilian beef: a preregistered product-level econometric analysis
+title: "Deforestation and retail prices of Brazilian beef: a preregistered product-level econometric analysis"
 authors:
 - jacqueline-silva
 - valentin-guye
